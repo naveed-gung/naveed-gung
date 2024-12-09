@@ -9,8 +9,14 @@
   ```javascript
   const naveed = {
     code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C"],
+    technologies: {
+        frontEnd: ["React.js"],
+        backEnd: ["Node.js", "Express.js"],
+        database: ["MongoDB"],
+        tools: ["Terminal", "Bash"]
+    },
     currentFocus: "Building responsive web applications",
-    learning: "MERN Stack Development",
+    learning: "Advanced MERN Stack Development",
     funFact: "I debug with console.log and prayer 🙏"
   };
   ```
@@ -19,10 +25,11 @@
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Learning **MongoDB, Express.js, React.js, Node.js**
+- 🔭 Currently working on **MERN Stack Projects**
+- 🌱 Learning **Advanced Web Development**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, UI/UX Design**
+- 🌐 Check out my portfolio: [por-fo-lio.netlify.app](https://por-fo-lio.netlify.app)
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +43,14 @@
   ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   
+  ### MERN Stack
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  
   ### Tools & Technologies
+  ![Terminal](https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=gnu-terminal&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -57,6 +71,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveed-sohail-gung-285645310)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naveed._.gung)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://por-fo-lio.netlify.app)
   
 </div>
 
