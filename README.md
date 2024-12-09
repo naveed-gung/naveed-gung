@@ -76,9 +76,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/naveed-gung/naveed-gung/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=100&section=footer"/>
 </div>
