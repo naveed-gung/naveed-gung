@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=200&section=header&text=Hi,%20I'm%20Naveed!%20👋&fontSize=50&fontAlignY=35&animation=twinkling"/>
 </div>
@@ -7,20 +6,20 @@
 
 <div align="center">
   
-```javascript
-const naveed = {
-  code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C"],
-  technologies: {
-    frontEnd: ["React.js"],
-    backEnd: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-    tools: ["Terminal", "Bash"]
-  },
-  currentFocus: "Building responsive web applications",
-  learning: "Advanced MERN Stack Development",
-  funFact: "I debug with console.log and prayer 🙏"
-};
-```
+  ```javascript
+  const naveed = {
+    code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C"],
+    technologies: {
+        frontEnd: ["React.js"],
+        backEnd: ["Node.js", "Express.js"],
+        database: ["MongoDB"],
+        tools: ["Terminal", "Bash"]
+    },
+    currentFocus: "Building responsive web applications",
+    learning: "Advanced MERN Stack Development",
+    funFact: "I debug with console.log and prayer 🙏"
+  };
+  ```
   
 </div>
 
@@ -63,12 +62,11 @@ const naveed = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=naveed-gung&theme=tokyonight&hide_border=true&exclude_days=Sun&card_width=350)](https://git.io/streak-stats)
+</div>
+
 
   
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=naveed-gung&theme=tokyonight&hide_border=true&exclude_days=Sun&card_width=349" alt="GitHub Streak" /></a>
-</div>  
-
-
 ## 🌐 Connect With Me
 
 <div align="center">
