@@ -62,7 +62,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-</div>[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</div>
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</div>
 
 ## 🌐 Connect With Me
 
