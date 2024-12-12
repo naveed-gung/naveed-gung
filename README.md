@@ -63,8 +63,12 @@ const naveed = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+
+  
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=naveed-gung&theme=tokyonight&hide_border=true&exclude_days=Sun&card_width=349" alt="GitHub Streak" /></a>
 </div>  
+
+
 ## 🌐 Connect With Me
 
 <div align="center">
