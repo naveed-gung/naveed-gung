@@ -25,8 +25,8 @@
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Learning **Advanced Web Development**
+- 🔭 Currently working on **Full Stack Projects**
+- 🌱 Learning **Mern Stack**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, UI/UX Design**
 - 🌐 Check out my portfolio: [por-fo-lio.netlify.app](https://por-fo-lio.netlify.app)
@@ -62,8 +62,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveed-gung&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</div>
+</div>[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</div>
 
 ## 🌐 Connect With Me
 
