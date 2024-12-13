@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/> &nbsp;  <img src="https://streak-stats.demolab.com?user=naveed-gung&theme=tokyonight&hide_border=true&short_numbers=true&card_width=395&card_height=165" alt="GitHub Streak" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/> 
 </div>
 
 
