@@ -7,18 +7,18 @@
 <div align="center">
   
   ```javascript
-  const naveed = {
-    code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C"],
-    technologies: {
-        frontEnd: ["React.js"],
-        backEnd: ["Node.js", "Express.js"],
-        database: ["MongoDB"],
-        tools: ["Terminal", "Bash"]
-    },
-    currentFocus: "Building responsive web applications",
-    learning: "Advanced MERN Stack Development",
-    funFact: "I debug with console.log and prayer 🙏"
-  };
+ const naveed = {  
+    code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C", "PHP"], // Added PHP to the code array  
+    technologies: {  
+        frontEnd: ["React.js"],  
+        backEnd: ["Node.js", "Express.js", "PHP"], // Added PHP to the backEnd array  
+        database: ["MongoDB", "MySQL"], // Added MySQL to the database array  
+        tools: ["Terminal", "Bash", "Apache"] // Added Apache to the tools array  
+    },  
+    currentFocus: "Building responsive web applications",  
+    learning: "Advanced MERN Stack Development and LAMP Stack Development", // Updated learning focus  
+    funFact: "I debug with console.log and prayer 🙏"  
+};
   ```
   
 </div>
@@ -26,7 +26,7 @@
 ## 🚀 What I'm Up To
 
 - 🔭 Currently working on **Full Stack Projects**
-- 🌱 Learning **Mern Stack**
+- 🌱 Learning **LAMP Stack** & **Mern Stack**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, UI/UX Design**
 - 🌐 Check out my portfolio: [por-fo-lio.netlify.app](https://por-fo-lio.netlify.app)
