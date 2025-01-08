@@ -8,15 +8,15 @@
   
   ```javascript
  const naveed = {  
-    code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C", "PHP"], // Added PHP to the code array  
+    code: ["JavaScript", "HTML", "CSS", "Python", "Java", "C", "PHP"], 
     technologies: {  
         frontEnd: ["React.js"],  
-        backEnd: ["Node.js", "Express.js", "PHP"], // Added PHP to the backEnd array  
-        database: ["MongoDB", "MySQL"], // Added MySQL to the database array  
-        tools: ["Terminal", "Bash", "Apache"] // Added Apache to the tools array  
+        backEnd: ["Node.js", "Express.js", "PHP"],   
+        database: ["MongoDB", "MySQL", "PostgreSQL"],   
+        tools: ["Terminal", "Bash", "Apache"]   
     },  
     currentFocus: "Building responsive web applications",  
-    learning: "Advanced MERN Stack Development and LAMP Stack Development", // Updated learning focus  
+    learning: "Advanced MERN Stack Development and LAMP Stack Development", 
     funFact: "I debug with console.log and prayer 🙏"  
 };
   ```
