@@ -4,41 +4,43 @@
 
 <h3 align="center">Full-Stack Developer | Building Scalable Web & Mobile Solutions ✨</h3>
 
+<br/>
+
 <div align="center">
   
-  ```javascript
-const naveed = {  
-    title: "Full-Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C", "C#", "PHP", "Dart"], 
-    technologies: {  
-        frontEnd: {
-            frameworks: ["React.js", "Vue.js", "Angular", "React Native"],
-            styling: ["Tailwind CSS", "SCSS", "Material-UI"],
-            tools: ["Vite", "Webpack"]
-        },
-        backEnd: {
-            runtime: ["Node.js", "Express.js"],
-            languages: ["PHP", "Python"],
-            enterprise: [".NET", "Blazor", "ABP Framework"]
-        },
-        database: ["MongoDB", "MySQL", "PostgreSQL"],
-        erp: ["Odoo", "OWL (Odoo Web Library)"],
-        mobile: ["React Native", "Flutter", "Dart"],
-        devOps: ["Git", "Bash", "Apache", "Linux", "Terminal"],
-        ai: ["AI Integration", "Voice Recognition", "NLP"]
-    },  
-    currentProjects: [
-        "Building enterprise applications with .NET",
-        "Developing cross-platform mobile apps with React Native & Flutter",
-        "Creating custom Odoo ERP solutions"
-    ],
-    architecture: ["RESTful APIs", "Microservices", "MVC", "Component-Based Design"],
-    learning: "C# + Blazor + ABP Framework, .NET Development, Advanced React Native & Flutter", 
-    languages: ["English", "Arabic", "Urdu"],
-    funFact: "I debug with console.log and prayer 🙏"  
+```javascript
+const naveed = {
+  title: "Full-Stack Developer",
+  code: ["JavaScript", "TypeScript", "Python", "Java", "C", "C#", "PHP", "Dart"],
+  technologies: {
+    frontEnd: {
+      frameworks: ["React.js", "Vue.js", "Angular", "React Native"],
+      styling: ["Tailwind CSS", "SCSS", "Material-UI"],
+      tools: ["Vite", "Webpack"]
+    },
+    backEnd: {
+      runtime: ["Node.js", "Express.js"],
+      languages: ["PHP", "Python"],
+      enterprise: [".NET", "Blazor", "ABP Framework"]
+    },
+    database: ["MongoDB", "MySQL", "PostgreSQL"],
+    erp: ["Odoo", "OWL (Odoo Web Library)"],
+    mobile: ["React Native", "Flutter", "Dart"],
+    devOps: ["Git", "Bash", "Apache", "Linux", "Terminal"],
+    ai: ["AI Integration", "Voice Recognition", "NLP"]
+  },
+  currentProjects: [
+    "Building enterprise applications with .NET",
+    "Developing cross-platform mobile apps with React Native & Flutter",
+    "Creating custom Odoo ERP solutions"
+  ],
+  architecture: ["RESTful APIs", "Microservices", "MVC", "Component-Based Design"],
+  learning: "C# + Blazor + ABP Framework, .NET Development, Advanced React Native & Flutter",
+  languages: ["English", "Arabic", "Urdu"],
+  funFact: "I debug with console.log and prayer 🙏"
 };
-  ```
-  
+```
+
 </div>
 
 <br/>
@@ -105,7 +107,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center">LAMP Stack</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,apache,mysql,php" />
+    <img src="https://skillicons.dev/icons?i=linux,mysql,php" />
 </div>
 
 <br/>
@@ -166,6 +168,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 </p>
 
 <br/>
+<br/>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
@@ -179,47 +182,62 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <br/>
 <br/>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="28" /> Core Competencies</h2>
-
-<br/>
-
-- ✅ Full-Stack Web Development (MERN & LAMP)
-- ✅ Cross-Platform Mobile Development (React Native, Flutter/Dart)
-- ✅ Enterprise Application Development (.NET, C#, Blazor)
-- ✅ Modern Frontend Frameworks (React, Vue, Angular)
-- ✅ 3D Web Experiences (Three.js, React Three Fiber)
-- ✅ ERP Solutions & Custom Modules (Odoo, OWL)
-- ✅ RESTful API Design & Integration
-- ✅ Database Design & Optimization
-- ✅ Responsive UI/UX Implementation
-- ✅ AI/ML Integration
-- ✅ Version Control & Agile Methodologies
-- ✅ Multilingual Development (English, Arabic, Urdu)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="28" /> Connect With Me</h2>
+<h2 align="center">🎯 Core Competencies</h2>
 
 <br/>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveed-sohail-gung-285645310)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naveed._.gung)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://por-fo-lio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveedsohailg@gmail.com)
-  
+
+| **Domain** | **Skills** |
+|:---:|:---|
+| **Web Development** | Full-Stack Development (MERN & LAMP), RESTful API Design, Microservices Architecture |
+| **Mobile Development** | React Native, Flutter/Dart, Cross-Platform Solutions |
+| **Enterprise Solutions** | .NET, C#, Blazor, ABP Framework, Odoo ERP |
+| **Frontend Frameworks** | React, Vue, Angular, Responsive UI/UX |
+| **3D & Visualization** | Three.js, React Three Fiber, Blender Integration |
+| **Database** | MongoDB, MySQL, PostgreSQL, Database Optimization |
+| **AI/ML** | AI Integration, Voice Recognition, NLP |
+| **DevOps** | Git, Linux, Bash, Agile Methodologies |
+| **Languages** | English, Arabic, Urdu (Multilingual Development) |
+
 </div>
 
 <br/>
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br/>
+<br/>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/naveed-sohail-gung-285645310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/naveed._.gung" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" alt="Instagram" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://por-fo-lio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white&style=flat-square" alt="Portfolio" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:naveedsohailg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email" height="40"/>
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 <br/>
 
 <div align="center">
