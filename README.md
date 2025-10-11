@@ -23,7 +23,7 @@ const naveed = {
         },
         database: ["MongoDB", "MySQL", "PostgreSQL"],
         erp: ["Odoo", "OWL (Odoo Web Library)"],
-        mobile: ["React Native"],
+        mobile: ["React Native", "Flutter"],
         devOps: ["Git", "Bash", "Apache", "Linux", "Terminal"],
         ai: ["AI Integration", "Voice Recognition", "NLP"]
     },  
