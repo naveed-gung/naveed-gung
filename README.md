@@ -7,9 +7,6 @@
 <br/>
 
 <div align="center">
-<table>
-<tr>
-<td>
 
 ```javascript
 const naveed = {
@@ -94,7 +91,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Languages & Frameworks</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cs,php,dart" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cs,php,dart&perline=4" />
 </div>
 
 <br/>
@@ -102,7 +99,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center">MERN Stack</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" />
 </div>
 
 <br/>
@@ -110,8 +107,9 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center">LAMP Stack</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,mysql,php" />
-    <img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache"/>
+    <img src="https://skillicons.dev/icons?i=linux,mysql,php&perline=3" />
+    <br/>
+    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache"/>
 </div>
 
 <br/>
@@ -119,7 +117,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center">Frontend Technologies</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,vue,angular,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,vue,angular,vite&perline=4" />
 </div>
 
 <br/>
@@ -127,7 +125,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center">Backend & Enterprise</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,dotnet,cs,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,dotnet,cs,postgres,mongodb&perline=4" />
 </div>
 
 <br/>
@@ -135,7 +133,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center">Mobile Development</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&perline=4" />
 </div>
 
 <br/>
@@ -143,7 +141,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center">3D & Visualization</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=threejs,blender" />
+    <img src="https://skillicons.dev/icons?i=threejs,blender&perline=2" />
 </div>
 
 <br/>
@@ -151,7 +149,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center">Tools & DevOps</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,figma,webpack" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,figma,webpack&perline=4" />
 </div>
 
 <br/>
@@ -166,17 +164,23 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 
 <br/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed-gung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=naveed-gung&theme=tokyonight&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed-gung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
+</div>
 
 <br/>
 <br/>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
 
 <br/>
 <br/>
@@ -220,19 +224,16 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 
 <div align="center">
   <a href="https://www.linkedin.com/in/naveed-sohail-gung-285645310" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/naveed._.gung" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" alt="Instagram" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://por-fo-lio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white&style=flat-square" alt="Portfolio" height="40"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:naveedsohailg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email" height="40"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
