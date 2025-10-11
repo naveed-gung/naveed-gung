@@ -29,7 +29,7 @@ const naveed = {
     },  
     currentProjects: [
         "Building enterprise applications with .NET",
-        "Developing cross-platform mobile apps with React Native",
+        "Developing cross-platform mobile apps with React Native and Dart",
         "Creating custom Odoo ERP solutions"
     ],
     architecture: ["RESTful APIs", "Microservices", "MVC", "Component-Based Design"],
