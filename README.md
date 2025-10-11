@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=200&section=header&text=Hi,%20I'm%20Naveed!%20👋&fontSize=50&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=200&section=header&text=Hi,%20I'm%20Naveed!%20👋&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=51&descAlign=62"/>
 </div>
 
 <h3 align="center">Full-Stack Developer | Building Scalable Web & Mobile Solutions ✨</h3>
@@ -7,7 +7,10 @@
 <br/>
 
 <div align="center">
-  
+<table>
+<tr>
+<td>
+
 ```javascript
 const naveed = {
   title: "Full-Stack Developer",
