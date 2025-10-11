@@ -107,7 +107,7 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <h2 align="center">LAMP Stack</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,mysql,php" />
+    <img src="https://skillicons.dev/icons?i=linux,apache,mysql,php" />
 </div>
 
 <br/>
