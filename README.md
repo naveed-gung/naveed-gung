@@ -9,10 +9,10 @@
   ```javascript
 const naveed = {  
     title: "Full-Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C", "C#", "PHP"], 
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C", "C#", "PHP", "Dart"], 
     technologies: {  
         frontEnd: {
-            frameworks: ["React.js", "Vue.js", "React Native"],
+            frameworks: ["React.js", "Vue.js", "Angular", "React Native"],
             styling: ["Tailwind CSS", "SCSS", "Material-UI"],
             tools: ["Vite", "Webpack"]
         },
@@ -23,17 +23,17 @@ const naveed = {
         },
         database: ["MongoDB", "MySQL", "PostgreSQL"],
         erp: ["Odoo", "OWL (Odoo Web Library)"],
-        mobile: ["React Native", "Flutter"],
+        mobile: ["React Native", "Flutter", "Dart"],
         devOps: ["Git", "Bash", "Apache", "Linux", "Terminal"],
         ai: ["AI Integration", "Voice Recognition", "NLP"]
     },  
     currentProjects: [
         "Building enterprise applications with .NET",
-        "Developing cross-platform mobile apps with React Native and Dart",
+        "Developing cross-platform mobile apps with React Native & Flutter",
         "Creating custom Odoo ERP solutions"
     ],
     architecture: ["RESTful APIs", "Microservices", "MVC", "Component-Based Design"],
-    learning: "C# + Blazor + ABP Framework, .NET Development, Advanced React Native", 
+    learning: "C# + Blazor + ABP Framework, .NET Development, Advanced React Native & Flutter", 
     languages: ["English", "Arabic", "Urdu"],
     funFact: "I debug with console.log and prayer 🙏"  
 };
@@ -44,9 +44,9 @@ const naveed = {
 ## 🚀 What I'm Building
 
 - 🔭 Developing **Full-Stack Applications** with MERN & LAMP stacks
-- 📱 Creating **Cross-Platform Mobile Apps** with React Native
+- 📱 Creating **Cross-Platform Mobile Apps** with React Native & Flutter/Dart
 - 🏢 Building **Enterprise Solutions** with Odoo ERP and .NET
-- 🌱 Expanding skills in **C#, Blazor, and ABP Framework**
+- 🌱 Expanding skills in **C#, Blazor, ABP Framework, and Flutter**
 - 👯 Open to collaborate on **Open Source Projects** and innovative startups
 - 💬 Ask me about **Web Development, API Design, ERP Solutions, UI/UX**
 - 🌐 Portfolio: [por-fo-lio.netlify.app](https://por-fo-lio.netlify.app)
@@ -63,21 +63,17 @@ Modern e-commerce platform with intelligent product recommendations and immersiv
 - **Stack:** React.js, Node.js, MongoDB, AI/ML integration
 - **Features:** AI recommendations, AR product visualization, secure checkout, inventory management
 
-### 🤖 Nova – Multilingual AI Voice Assistant
-Intelligent voice assistant supporting English, Arabic, and French with seamless language switching.
-- **Stack:** Python, JavaScript, NLP, Voice Synthesis APIs
-- **Features:** Real-time language detection, voice commands, natural conversation flow
-
-### 📚 Shelfie-Collection – Personal Library Manager
-Clean, intuitive application for managing personal book collections.
-- **Stack:** React.js, Firebase, Firestore
-- **Features:** Search & categorization, reading progress, collection statistics
+### 🚗 Elite Car Showroom – Luxury 3D Experience
+Cinematic luxury car showroom with Blender-authored visuals and immersive 3D interactions.
+- **Stack:** React.js, Three.js, React Three Fiber, Zustand, Tailwind CSS
+- **Features:** Cinematic camera stages, iOS-style brightness control, glassmorphic UI, per-country car selection, mobile-optimized controls, interior/exterior exploration with audio feedback
 
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,typescript,react,vue,nodejs,express,mongodb,mysql" />
-    <img src="https://skillicons.dev/icons?i=postgres,php,python,java,c,cs,dotnet,firebase,vite,webpack,linux,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,typescript,react,vue,angular,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,php,python,java,c,cs,dart,flutter,dotnet,firebase,vite" />
+    <img src="https://skillicons.dev/icons?i=webpack,threejs,linux,git,github,vscode,postman,figma" /><br>
 </div>
 <br/>
 <hr/>
@@ -96,8 +92,10 @@ Clean, intuitive application for managing personal book collections.
 ## 🎯 Core Competencies
 
 - ✅ Full-Stack Web Development (MERN & LAMP)
-- ✅ Cross-Platform Mobile Development (React Native)
+- ✅ Cross-Platform Mobile Development (React Native, Flutter/Dart)
 - ✅ Enterprise Application Development (.NET, C#, Blazor)
+- ✅ Modern Frontend Frameworks (React, Vue, Angular)
+- ✅ 3D Web Experiences (Three.js, React Three Fiber)
 - ✅ ERP Solutions & Custom Modules (Odoo, OWL)
 - ✅ RESTful API Design & Integration
 - ✅ Database Design & Optimization
