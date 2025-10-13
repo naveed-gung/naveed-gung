@@ -67,20 +67,20 @@ const naveed = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
 
-### 🎓 EduFlow – E-Learning Platform
-Comprehensive online education platform with interactive course management, real-time progress tracking, and adaptive learning features.
-- **Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
-- **Features:** User authentication, course enrollment, video streaming, assessment tools
+### 🚗 Elite Car Showroom – Luxury 3D Experience
+Cinematic luxury car showroom with Blender-authored visuals and immersive 3D interactions.
+- **Stack:** React.js, Three.js, React Three Fiber, Zustand, Tailwind CSS, Blender
+- **Features:** Cinematic camera stages, iOS-style brightness control, glassmorphic UI, per-country car selection, mobile-optimized controls, interior/exterior exploration with audio feedback
 
 ### 🛍️ Bazaar – AI-Powered E-Commerce
 Modern e-commerce platform with intelligent product recommendations and immersive shopping experience.
-- **Stack:** React.js, Node.js, MongoDB, AI/ML integration
-- **Features:** AI recommendations, AR product visualization, secure checkout, inventory management
+- **Stack:** React.js, Node.js, Express.js, MongoDB
+- **Features:** AI recommendations, secure checkout, inventory management, responsive design
 
-### 🚗 Elite Car Showroom – Luxury 3D Experience
-Cinematic luxury car showroom with Blender-authored visuals and immersive 3D interactions.
-- **Stack:** React.js, Three.js, React Three Fiber, Zustand, Tailwind CSS
-- **Features:** Cinematic camera stages, iOS-style brightness control, glassmorphic UI, per-country car selection, mobile-optimized controls, interior/exterior exploration with audio feedback
+### 🎓 EduFlow – E-Learning Platform
+Comprehensive online education platform with interactive course management and real-time progress tracking.
+- **Stack:** MongoDB, Express.js, React.js, Node.js (MERN)
+- **Features:** User authentication, course enrollment, video streaming, assessment tools, progress tracking
 
 <br/>
 
@@ -102,6 +102,8 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" />
 </div>
 
+<p align="center"><i>Used in: EduFlow, Bazaar</i></p>
+
 <br/>
 
 <h2 align="center">LAMP Stack</h2>
@@ -120,6 +122,8 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,vue,angular,vite&perline=4" />
 </div>
 
+<p align="center"><i>Used in: Elite Car Showroom, Bazaar, EduFlow</i></p>
+
 <br/>
 
 <h2 align="center">Backend & Enterprise</h2>
@@ -127,6 +131,8 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,dotnet,cs,postgres,mongodb&perline=4" />
 </div>
+
+<p align="center"><i>Used in: EduFlow, Bazaar</i></p>
 
 <br/>
 
@@ -143,6 +149,8 @@ Cinematic luxury car showroom with Blender-authored visuals and immersive 3D int
 <div align="center">
     <img src="https://skillicons.dev/icons?i=threejs,blender&perline=2" />
 </div>
+
+<p align="center"><i>Used in: Elite Car Showroom</i></p>
 
 <br/>
 
