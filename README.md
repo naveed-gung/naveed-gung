@@ -27,12 +27,14 @@ const naveed = {
     erp: ["Odoo", "OWL (Odoo Web Library)"],
     mobile: ["React Native", "Flutter", "Dart"],
     devOps: ["Git", "Bash", "Apache", "Linux", "Terminal"],
-    ai: ["AI Integration", "Voice Recognition", "NLP"]
+    ai: ["AI Integration", "Voice Recognition", "NLP"],
+    visualization: ["Three.js", "React Three Fiber", "Blender"]
   },
   currentProjects: [
     "Building enterprise applications with .NET",
     "Developing cross-platform mobile apps with React Native & Flutter",
-    "Creating custom Odoo ERP solutions"
+    "Creating custom Odoo ERP solutions",
+    "Crafting immersive 3D web experiences"
   ],
   architecture: ["RESTful APIs", "Microservices", "MVC", "Component-Based Design"],
   learning: "C# + Blazor + ABP Framework, .NET Development, Advanced React Native & Flutter",
@@ -54,9 +56,10 @@ const naveed = {
 - 🔭 Developing **Full-Stack Applications** with MERN & LAMP stacks
 - 📱 Creating **Cross-Platform Mobile Apps** with React Native & Flutter/Dart
 - 🏢 Building **Enterprise Solutions** with Odoo ERP and .NET
+- 🎨 Crafting **Immersive 3D Web Experiences** with Three.js & React Three Fiber
 - 🌱 Expanding skills in **C#, Blazor, ABP Framework, and Flutter**
 - 👯 Open to collaborate on **Open Source Projects** and innovative startups
-- 💬 Ask me about **Web Development, API Design, ERP Solutions, UI/UX**
+- 💬 Ask me about **Web Development, API Design, ERP Solutions, UI/UX, 3D Visualization**
 - 🌐 Portfolio: [por-fo-lio.netlify.app](https://por-fo-lio.netlify.app)
 
 <br/>
@@ -132,7 +135,7 @@ Comprehensive online education platform with interactive course management and r
     <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,dotnet,cs,postgres,mongodb&perline=4" />
 </div>
 
-<p align="center"><i>Used in: EduFlow, Bazaar</i></p>
+<p align="center"><i>Used in: EduFlow (Node.js, Express.js, MongoDB), Bazaar (Node.js, Express.js, MongoDB)</i></p>
 
 <br/>
 
@@ -159,6 +162,8 @@ Comprehensive online education platform with interactive course management and r
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,figma,webpack&perline=4" />
 </div>
+
+<p align="center"><i>Used across all projects for development, version control, and deployment</i></p>
 
 <br/>
 <br/>
