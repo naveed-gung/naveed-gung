@@ -60,7 +60,7 @@ const naveed = {
 - 🌱 Expanding skills in **C#, Blazor, ABP Framework, and Flutter**
 - 👯 Open to collaborate on **Open Source Projects** and innovative startups
 - 💬 Ask me about **Web Development, API Design, ERP Solutions, UI/UX, 3D Visualization**
-- 🌐 Portfolio: [por-fo-lio.netlify.app](https://por-fo-lio.netlify.app)
+- 🌐 Portfolio: [naveed-gung.dev](naveed-gung.dev)
 
 <br/>
 
@@ -242,7 +242,7 @@ Comprehensive online education platform with interactive course management and r
   <a href="https://www.instagram.com/naveed._.gung" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://por-fo-lio.netlify.app" target="_blank">
+  <a href="naveed-gung.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:naveedsohailg@gmail.com">
