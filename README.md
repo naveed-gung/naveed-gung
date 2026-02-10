@@ -162,12 +162,12 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 ### GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10" alt="Top Languages"/>
 </div>
 
 ---
