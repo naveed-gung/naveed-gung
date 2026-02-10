@@ -5,6 +5,10 @@
 <h3 align="center">Software & Infrastructure Engineer</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Full-Stack+%7C+Cloud+%7C+Security+%7C+AI+%7C+3D+Experiences" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://naveed-gung.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-naveed--gung.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/naveed-sohail-gung-285645310" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-naveed--sohail--gung-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:naveedsohailg@gmail.com"><img src="https://img.shields.io/badge/Email-naveedsohailg-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -14,15 +18,28 @@
 
 ### About
 
-Software & Infrastructure Engineer based in Beirut, with a foundation in Management Information Systems. I build full-stack web applications, cross-platform mobile solutions, AI-powered systems, resilient cloud infrastructures, and security tooling — from kernel-level threat detection to 3D immersive experiences.
+Software & Infrastructure Engineer with a foundation in Management Information Systems, specializing in building scalable web applications, cross-platform mobile apps, and cloud solutions with DevOps automation and cybersecurity by design.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="18" height="18" /> Building **kernel-level threat detection** and **container security** systems
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="18" height="18" /> Designing **AR-powered security assessment** tooling for physical & network evaluations
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="18" height="18" /> Engineering **cloud-native CI/CD pipelines** and **serverless architectures**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="18" height="18" /> Developing **cross-platform mobile apps** with React Native & Flutter
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" height="18" /> Creating **AI voice assistants**, **real-time emotion recognition**, and **3D avatar chat**
+<table>
+<tr>
+<td width="50%">
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="18" height="18" /> Building **kernel-level threat detection** & **container security** systems
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="18" height="18" /> Engineering **cloud-native CI/CD pipelines** & **serverless architectures**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" height="18" /> Creating **AI-powered systems** — voice assistants, emotion recognition & 3D avatar chat
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="18" height="18" /> Crafting **immersive 3D web experiences** with Three.js, React Three Fiber & Blender
+
+</td>
+<td width="50%">
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="18" height="18" /> Developing **cross-platform mobile apps** with React Native & Flutter
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="18" height="18" /> Designing **AR-powered security assessment** tooling for physical & network evaluations
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="18" height="18" /> **DevOps automation** with Docker, AWS, Azure & GCP
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="18" height="18" /> Portfolio: **[naveed-gung.dev](https://naveed-gung.dev)**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,7 +78,7 @@ Mobile security assessment toolkit leveraging Augmented Reality for physical and
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" alt="Jenny" /> [Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
+#### <img src="https://raw.githubusercontent.com/naveed-gung/jenny/main/frontend/public/logo.svg" width="22" height="22" alt="Jenny" /> [Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
 
 Real-time 3D avatar chat with AI-powered conversations, text-to-speech, and lifelike Blender-authored visuals.
 
@@ -81,7 +98,7 @@ Cinematic luxury car showroom — Blender-authored visuals, glassmorphic UI, per
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" height="22" alt="Auto-Server" /> [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
+#### <img src="https://raw.githubusercontent.com/naveed-gung/Auto-Server-Script/main/logo.svg" width="22" height="22" alt="Auto-Server" /> [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
 
 Enterprise-grade automation that provisions complete MERN infrastructure with zero human intervention — production-ready in minutes.
 
@@ -92,7 +109,7 @@ Enterprise-grade automation that provisions complete MERN infrastructure with ze
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="22" height="22" alt="Bazaar" /> [Bazaar](https://github.com/naveed-gung/bazaar)
+#### <img src="https://raw.githubusercontent.com/naveed-gung/bazaar/main/logo.svg" width="22" height="22" alt="Bazaar" /> [Bazaar](https://github.com/naveed-gung/bazaar)
 
 AI-powered e-commerce platform with intelligent recommendations, secure checkout, and inventory management.
 
@@ -112,7 +129,7 @@ Full-stack e-learning platform with course management, video streaming, assessme
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" width="22" height="22" alt="Nova" /> [Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
+#### <img src="https://raw.githubusercontent.com/naveed-gung/nova/main/logo.svg" width="22" height="22" alt="Nova" /> [Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
 
 Multilingual AI voice assistant supporting English, Arabic & French with natural browser-based conversation.
 
@@ -121,7 +138,7 @@ Multilingual AI voice assistant supporting English, Arabic & French with natural
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" width="22" height="22" alt="EmotionSense" /> [EmotionSense](https://github.com/naveed-gung/EmotionSense)
+#### <img src="https://raw.githubusercontent.com/naveed-gung/EmotionSense/main/logo.svg" width="22" height="22" alt="EmotionSense" /> [EmotionSense](https://github.com/naveed-gung/EmotionSense)
 
 Real-time facial emotion, age & gender detection — privacy-first Flutter app with Google ML Kit and TensorFlow Lite.
 
@@ -131,7 +148,7 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 </tr>
 </table>
 
-<p align="center"><i>→ <a href="https://github.com/naveed-gung?tab=repositories">View all 29 repositories</a></i></p>
+<p align="center"><i>→ <a href="https://github.com/naveed-gung?tab=repositories">View all repositories</a></i></p>
 
 ---
 
@@ -170,6 +187,16 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
   <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10" alt="Top Languages"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=naveed-gung&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=naveed-gung&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveed-gung&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  </picture>
+</div>
+
 ---
 
 ### Connect
@@ -184,7 +211,28 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 <br/>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=f6f8fa&height=2&section=header" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20the%20blueprint%2C%20infrastructure%20is%20the%20foundation%2C%20and%20security%20is%20the%20armor.&author=Naveed%20Sohail%20Gung" alt="Quote" />
+</div>
+
+<br/>
+
+<div align="center">
   <b>Open to opportunities in Software Engineering, Cybersecurity, Cloud Infrastructure & Full-Stack Development</b>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveed-gung&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
