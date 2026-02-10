@@ -16,13 +16,13 @@
 
 Software & Infrastructure Engineer based in Beirut, with a foundation in Management Information Systems. I build full-stack web applications, cross-platform mobile solutions, AI-powered systems, resilient cloud infrastructures, and security tooling — from kernel-level threat detection to 3D immersive experiences.
 
-- <img src="icons/shield.svg" width="18" height="18" alt="" /> Building **kernel-level threat detection** and **container security** systems
-- <img src="icons/radar.svg" width="18" height="18" alt="" /> Designing **AR-powered security assessment** tooling for physical & network evaluations
-- <img src="icons/cloud.svg" width="18" height="18" alt="" /> Engineering **cloud-native CI/CD pipelines** and **serverless architectures**
-- <img src="icons/smartphone.svg" width="18" height="18" alt="" /> Developing **cross-platform mobile apps** with React Native & Flutter
-- <img src="icons/cpu.svg" width="18" height="18" alt="" /> Creating **AI voice assistants**, **real-time emotion recognition**, and **3D avatar chat**
-- <img src="icons/cube.svg" width="18" height="18" alt="" /> Crafting **immersive 3D web experiences** with Three.js, React Three Fiber & Blender
-- <img src="icons/globe.svg" width="18" height="18" alt="" /> Portfolio: **[naveed-gung.dev](https://naveed-gung.dev)**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="18" height="18" /> Building **kernel-level threat detection** and **container security** systems
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="18" height="18" /> Designing **AR-powered security assessment** tooling for physical & network evaluations
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="18" height="18" /> Engineering **cloud-native CI/CD pipelines** and **serverless architectures**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="18" height="18" /> Developing **cross-platform mobile apps** with React Native & Flutter
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" height="18" /> Creating **AI voice assistants**, **real-time emotion recognition**, and **3D avatar chat**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="18" height="18" /> Crafting **immersive 3D web experiences** with Three.js, React Three Fiber & Blender
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="18" height="18" /> Portfolio: **[naveed-gung.dev](https://naveed-gung.dev)**
 
 ---
 
@@ -52,7 +52,7 @@ Cross-platform, kernel-integrated real-time threat detection — rootkits, memor
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="icons/crosshair.svg" width="22" height="22" alt="AR-SEC" /> [AR-SEC](https://github.com/naveed-gung/AR-SEC)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" width="22" height="22" alt="AR-SEC" /> [AR-SEC](https://github.com/naveed-gung/AR-SEC)
 
 Mobile security assessment toolkit leveraging Augmented Reality for physical and network security evaluations with real-time threat intelligence overlays.
 
@@ -61,7 +61,7 @@ Mobile security assessment toolkit leveraging Augmented Reality for physical and
 </td>
 <td width="50%" valign="top">
 
-#### <img src="icons/bot.svg" width="22" height="22" alt="Jenny" /> [Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" alt="Jenny" /> [Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
 
 Real-time 3D avatar chat with AI-powered conversations, text-to-speech, and lifelike Blender-authored visuals.
 
@@ -81,7 +81,7 @@ Cinematic luxury car showroom — Blender-authored visuals, glassmorphic UI, per
 </td>
 <td width="50%" valign="top">
 
-#### <img src="icons/terminal.svg" width="22" height="22" alt="Auto-Server" /> [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" height="22" alt="Auto-Server" /> [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
 
 Enterprise-grade automation that provisions complete MERN infrastructure with zero human intervention — production-ready in minutes.
 
@@ -92,7 +92,7 @@ Enterprise-grade automation that provisions complete MERN infrastructure with ze
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="icons/shopping-bag.svg" width="22" height="22" alt="Bazaar" /> [Bazaar](https://github.com/naveed-gung/bazaar)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="22" height="22" alt="Bazaar" /> [Bazaar](https://github.com/naveed-gung/bazaar)
 
 AI-powered e-commerce platform with intelligent recommendations, secure checkout, and inventory management.
 
@@ -112,7 +112,7 @@ Full-stack e-learning platform with course management, video streaming, assessme
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="icons/mic.svg" width="22" height="22" alt="Nova" /> [Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" width="22" height="22" alt="Nova" /> [Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
 
 Multilingual AI voice assistant supporting English, Arabic & French with natural browser-based conversation.
 
@@ -121,7 +121,7 @@ Multilingual AI voice assistant supporting English, Arabic & French with natural
 </td>
 <td width="50%" valign="top">
 
-#### <img src="icons/scan-face.svg" width="22" height="22" alt="EmotionSense" /> [EmotionSense](https://github.com/naveed-gung/EmotionSense)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" width="22" height="22" alt="EmotionSense" /> [EmotionSense](https://github.com/naveed-gung/EmotionSense)
 
 Real-time facial emotion, age & gender detection — privacy-first Flutter app with Google ML Kit and TensorFlow Lite.
 
@@ -162,12 +162,12 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 ### GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10" alt="Top Languages"/>
 </div>
 
 ---
