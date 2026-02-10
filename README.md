@@ -1,273 +1,194 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=200&section=header&text=Hi,%20I'm%20Naveed!%20👋&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=180&section=header&text=Naveed%20Sohail%20Gung&fontSize=42&fontAlignY=32&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
-<h3 align="center">Full-Stack Developer | Building Scalable Web & Mobile Solutions ✨</h3>
+<h3 align="center">Software & Infrastructure Engineer</h3>
 
-<br/>
+<p align="center">
+  <a href="https://naveed-gung.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-naveed--gung.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/naveed-sohail-gung-285645310" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-naveed--sohail--gung-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:naveedsohailg@gmail.com"><img src="https://img.shields.io/badge/Email-naveedsohailg-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### About
+
+Software & Infrastructure Engineer based in Beirut, with a foundation in Management Information Systems. I build full-stack web applications, cross-platform mobile solutions, AI-powered systems, resilient cloud infrastructures, and security tooling — from kernel-level threat detection to 3D immersive experiences.
+
+- 🛡️ Building **kernel-level threat detection** and **container security** systems
+- 📡 Designing **AR-powered security assessment** tooling for physical & network evaluations
+- ☁️ Engineering **cloud-native CI/CD pipelines** and **serverless architectures**
+- 📱 Developing **cross-platform mobile apps** with React Native & Flutter
+- 🤖 Creating **AI voice assistants**, **real-time emotion recognition**, and **3D avatar chat**
+- 🎨 Crafting **immersive 3D web experiences** with Three.js, React Three Fiber & Blender
+- 🌐 Portfolio: **[naveed-gung.dev](https://naveed-gung.dev)**
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ [ZERO-DAY-GUARDIAN](https://github.com/naveed-gung/ZERO-DAY-GUARDIAN)
+
+Real-time container threat detection, automated defense, and forensic evidence collection.
+
+`Java` `Go` `Rust` `Spring Boot` `eBPF` `Kubebuilder`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔬 [S.T.A.R — System Threat & Anomaly Radar](https://github.com/naveed-gung/S.T.A.R---System-Threat---Anomaly-Radar)
+
+Cross-platform, kernel-integrated real-time threat detection — rootkits, memory anomalies, and beyond.
+
+`C` `Electron` `WebGL` `SQLite` `CMake` `WDM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📡 [AR-SEC](https://github.com/naveed-gung/AR-SEC)
+
+Mobile security assessment toolkit leveraging Augmented Reality for physical and network security evaluations with real-time threat intelligence overlays.
+
+`React Native` `TypeScript` `AR`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 [Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
+
+Real-time 3D avatar chat with AI-powered conversations, text-to-speech, and lifelike Blender-authored visuals.
+
+`React` `Three.js` `Node.js` `MongoDB` `Blender`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚗 [Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
+
+Cinematic luxury car showroom — Blender-authored visuals, glassmorphic UI, per-country car selection, interior/exterior exploration with audio.
+
+`React` `Three.js` `React Three Fiber` `Zustand` `Tailwind` `Blender`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
+
+Enterprise-grade automation that provisions complete MERN infrastructure with zero human intervention — production-ready in minutes.
+
+`Shell` `Docker` `Node.js` `MongoDB` `PM2` `Certbot`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛍️ [Bazaar](https://github.com/naveed-gung/bazaar)
+
+AI-powered e-commerce platform with intelligent recommendations, secure checkout, and inventory management.
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎓 [EduFlow](https://github.com/naveed-gung/eduflow)
+
+Full-stack e-learning platform with course management, video streaming, assessments, and real-time progress tracking.
+
+`MongoDB` `Express` `React` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎤 [Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
+
+Multilingual AI voice assistant supporting English, Arabic & French with natural browser-based conversation.
+
+`React` `TypeScript` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+#### 😊 [EmotionSense](https://github.com/naveed-gung/EmotionSense)
+
+Real-time facial emotion, age & gender detection — privacy-first Flutter app with Google ML Kit and TensorFlow Lite.
+
+`Flutter` `Dart` `TensorFlow` `Google ML Kit`
+
+</td>
+</tr>
+</table>
+
+<p align="center"><i>→ <a href="https://github.com/naveed-gung?tab=repositories">View all 29 repositories</a></i></p>
+
+---
+
+### Tech Stack
 
 <div align="center">
 
-```javascript
-const naveed = {
-  title: "Full-Stack Developer",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "C", "C#", "PHP", "Dart"],
-  technologies: {
-    frontEnd: {
-      frameworks: ["React.js", "Vue.js", "Angular", "React Native"],
-      styling: ["Tailwind CSS", "SCSS", "Material-UI"],
-      tools: ["Vite", "Webpack"]
-    },
-    backEnd: {
-      runtime: ["Node.js", "Express.js"],
-      languages: ["PHP", "Python"],
-      enterprise: [".NET", "Blazor", "ABP Framework"]
-    },
-    database: ["MongoDB", "MySQL", "PostgreSQL"],
-    erp: ["Odoo", "OWL (Odoo Web Library)"],
-    mobile: ["React Native", "Flutter", "Dart"],
-    devOps: ["Git", "Bash", "Apache", "Linux", "Terminal"],
-    ai: ["AI Integration", "Voice Recognition", "NLP"],
-    visualization: ["Three.js", "React Three Fiber", "Blender"]
-  },
-  currentProjects: [
-    "Building enterprise applications with .NET",
-    "Developing cross-platform mobile apps with React Native & Flutter",
-    "Creating custom Odoo ERP solutions",
-    "Crafting immersive 3D web experiences"
-  ],
-  architecture: ["RESTful APIs", "Microservices", "MVC", "Component-Based Design"],
-  learning: "C# + Blazor + ABP Framework, .NET Development, Advanced React Native & Flutter",
-  languages: ["English", "Arabic", "Urdu"],
-  funFact: "I debug with console.log and prayer 🙏"
-};
-```
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cs,go,rust,php,dart&perline=10" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,sass,threejs,flutter,vite,webpack,blender&perline=10" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,flask,mongodb,mysql,postgres,firebase,sqlite&perline=10" />
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git,github,postman,figma,vscode,netlify&perline=10" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"> What I'm Building
-
-- 🔭 Developing **Full-Stack Applications** with MERN & LAMP stacks
-- 📱 Creating **Cross-Platform Mobile Apps** with React Native & Flutter/Dart
-- 🏢 Building **Enterprise Solutions** with Odoo ERP and .NET
-- 🎨 Crafting **Immersive 3D Web Experiences** with Three.js & React Three Fiber
-- 🌱 Expanding skills in **C#, Blazor, ABP Framework, and Flutter**
-- 👯 Open to collaborate on **Open Source Projects** and innovative startups
-- 💬 Ask me about **Web Development, API Design, ERP Solutions, UI/UX, 3D Visualization**
-- 🌐 Portfolio: [naveed-gung.dev](naveed-gung.dev)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
-
-### 🚗 Elite Car Showroom – Luxury 3D Experience
-Cinematic luxury car showroom with Blender-authored visuals and immersive 3D interactions.
-- **Stack:** React.js, Three.js, React Three Fiber, Zustand, Tailwind CSS, Blender
-- **Features:** Cinematic camera stages, iOS-style brightness control, glassmorphic UI, per-country car selection, mobile-optimized controls, interior/exterior exploration with audio feedback
-
-### 🛍️ Bazaar – AI-Powered E-Commerce
-Modern e-commerce platform with intelligent product recommendations and immersive shopping experience.
-- **Stack:** React.js, Node.js, Express.js, MongoDB
-- **Features:** AI recommendations, secure checkout, inventory management, responsive design
-
-### 🎓 EduFlow – E-Learning Platform
-Comprehensive online education platform with interactive course management and real-time progress tracking.
-- **Stack:** MongoDB, Express.js, React.js, Node.js (MERN)
-- **Features:** User authentication, course enrollment, video streaming, assessment tools, progress tracking
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Languages & Frameworks</h2>
+### GitHub Statistics
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cs,php,dart&perline=4" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=github_dark_dimmed&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<h2 align="center">MERN Stack</h2>
-
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10&bg_color=00000000" alt="Top Languages"/>
 </div>
 
-<p align="center"><i>Used in: EduFlow, Bazaar</i></p>
+---
 
-<br/>
-
-<h2 align="center">LAMP Stack</h2>
+### Connect
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,mysql,php&perline=3" />
-    <br/>
-    <img height="48" width="48" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache"/>
-</div>
-
-<br/>
-
-<h2 align="center">Frontend Technologies</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,vue,angular,vite&perline=4" />
-</div>
-
-<p align="center"><i>Used in: Elite Car Showroom, Bazaar, EduFlow</i></p>
-
-<br/>
-
-<h2 align="center">Backend & Enterprise</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,dotnet,cs,postgres,mongodb&perline=4" />
-</div>
-
-<p align="center"><i>Used in: EduFlow (Node.js, Express.js, MongoDB), Bazaar (Node.js, Express.js, MongoDB)</i></p>
-
-<br/>
-
-<h2 align="center">Mobile Development</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&perline=4" />
-</div>
-
-<br/>
-
-<h2 align="center">3D & Visualization</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=threejs,blender&perline=2" />
-</div>
-
-<p align="center"><i>Used in: Elite Car Showroom</i></p>
-
-<br/>
-
-<h2 align="center">Tools & DevOps</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,figma,webpack&perline=4" />
-</div>
-
-<p align="center"><i>Used across all projects for development, version control, and deployment</i></p>
-
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-<br/>
-
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> GitHub Statistics</h2>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=naveed-gung&theme=tokyonight&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naveed-gung&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-<br/>
-
-<h2 align="center">🎯 Core Competencies</h2>
-
-<br/>
-
-<div align="center">
-
-| **Domain** | **Skills** |
-|:---:|:---|
-| **Web Development** | Full-Stack Development (MERN & LAMP), RESTful API Design, Microservices Architecture |
-| **Mobile Development** | React Native, Flutter/Dart, Cross-Platform Solutions |
-| **Enterprise Solutions** | .NET, C#, Blazor, ABP Framework, Odoo ERP |
-| **Frontend Frameworks** | React, Vue, Angular, Responsive UI/UX |
-| **3D & Visualization** | Three.js, React Three Fiber, Blender Integration |
-| **Database** | MongoDB, MySQL, PostgreSQL, Database Optimization |
-| **AI/ML** | AI Integration, Voice Recognition, NLP |
-| **DevOps** | Git, Linux, Bash, Agile Methodologies |
-| **Languages** | English, Arabic, Urdu (Multilingual Development) |
-
-</div>
-
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-<br/>
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/naveed-sohail-gung-285645310" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/naveed._.gung" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="naveed-gung.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:naveedsohailg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-<br/>
-
-<div align="center">
-  
-  **💼 Open to opportunities in Full-Stack Development, Mobile Development, and Enterprise Solutions**
-  
-  *"Writing code that makes a difference, one commit at a time"*
-  
+  <a href="https://naveed-gung.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/naveed-sohail-gung-285645310" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.instagram.com/naveed._.gung" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="mailto:naveedsohailg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=100&section=footer"/>
+  <b>Open to opportunities in Software Engineering, Cybersecurity, Cloud Infrastructure & Full-Stack Development</b>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=100&section=footer" width="100%"/>
 </div>
