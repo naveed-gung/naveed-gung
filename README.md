@@ -32,7 +32,7 @@ Software & Infrastructure Engineer based in Beirut, with a foundation in Managem
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ [ZERO-DAY-GUARDIAN](https://github.com/naveed-gung/ZERO-DAY-GUARDIAN)
+#### <img src="https://raw.githubusercontent.com/naveed-gung/ZERO-DAY-GUARDIAN/main/assets/logo.svg" width="22" height="22" alt="ZDG" /> [ZERO-DAY-GUARDIAN](https://github.com/naveed-gung/ZERO-DAY-GUARDIAN)
 
 Real-time container threat detection, automated defense, and forensic evidence collection.
 
@@ -41,7 +41,7 @@ Real-time container threat detection, automated defense, and forensic evidence c
 </td>
 <td width="50%" valign="top">
 
-#### 🔬 [S.T.A.R — System Threat & Anomaly Radar](https://github.com/naveed-gung/S.T.A.R---System-Threat---Anomaly-Radar)
+#### <img src="https://raw.githubusercontent.com/naveed-gung/S.T.A.R---System-Threat---Anomaly-Radar/main/docs/star-banner.svg" width="22" height="22" alt="STAR" /> [S.T.A.R — System Threat & Anomaly Radar](https://github.com/naveed-gung/S.T.A.R---System-Threat---Anomaly-Radar)
 
 Cross-platform, kernel-integrated real-time threat detection — rootkits, memory anomalies, and beyond.
 
@@ -52,7 +52,7 @@ Cross-platform, kernel-integrated real-time threat detection — rootkits, memor
 <tr>
 <td width="50%" valign="top">
 
-#### 📡 [AR-SEC](https://github.com/naveed-gung/AR-SEC)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" width="22" height="22" alt="AR-SEC" /> [AR-SEC](https://github.com/naveed-gung/AR-SEC)
 
 Mobile security assessment toolkit leveraging Augmented Reality for physical and network security evaluations with real-time threat intelligence overlays.
 
@@ -61,7 +61,7 @@ Mobile security assessment toolkit leveraging Augmented Reality for physical and
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 [Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" height="22" alt="Jenny" /> [Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
 
 Real-time 3D avatar chat with AI-powered conversations, text-to-speech, and lifelike Blender-authored visuals.
 
@@ -72,7 +72,7 @@ Real-time 3D avatar chat with AI-powered conversations, text-to-speech, and life
 <tr>
 <td width="50%" valign="top">
 
-#### 🚗 [Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
+#### <img src="https://raw.githubusercontent.com/naveed-gung/Elite-Showroom/main/public/favicon.svg" width="22" height="22" alt="Elite Showroom" /> [Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
 
 Cinematic luxury car showroom — Blender-authored visuals, glassmorphic UI, per-country car selection, interior/exterior exploration with audio.
 
@@ -81,7 +81,7 @@ Cinematic luxury car showroom — Blender-authored visuals, glassmorphic UI, per
 </td>
 <td width="50%" valign="top">
 
-#### ⚙️ [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" height="22" alt="Auto-Server" /> [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
 
 Enterprise-grade automation that provisions complete MERN infrastructure with zero human intervention — production-ready in minutes.
 
@@ -92,7 +92,7 @@ Enterprise-grade automation that provisions complete MERN infrastructure with ze
 <tr>
 <td width="50%" valign="top">
 
-#### 🛍️ [Bazaar](https://github.com/naveed-gung/bazaar)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="22" height="22" alt="Bazaar" /> [Bazaar](https://github.com/naveed-gung/bazaar)
 
 AI-powered e-commerce platform with intelligent recommendations, secure checkout, and inventory management.
 
@@ -101,7 +101,7 @@ AI-powered e-commerce platform with intelligent recommendations, secure checkout
 </td>
 <td width="50%" valign="top">
 
-#### 🎓 [EduFlow](https://github.com/naveed-gung/eduflow)
+#### <img src="https://raw.githubusercontent.com/naveed-gung/eduflow/main/client/public/favicon.svg" width="22" height="22" alt="EduFlow" /> [EduFlow](https://github.com/naveed-gung/eduflow)
 
 Full-stack e-learning platform with course management, video streaming, assessments, and real-time progress tracking.
 
@@ -112,7 +112,7 @@ Full-stack e-learning platform with course management, video streaming, assessme
 <tr>
 <td width="50%" valign="top">
 
-#### 🎤 [Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" width="22" height="22" alt="Nova" /> [Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
 
 Multilingual AI voice assistant supporting English, Arabic & French with natural browser-based conversation.
 
@@ -121,7 +121,7 @@ Multilingual AI voice assistant supporting English, Arabic & French with natural
 </td>
 <td width="50%" valign="top">
 
-#### 😊 [EmotionSense](https://github.com/naveed-gung/EmotionSense)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" width="22" height="22" alt="EmotionSense" /> [EmotionSense](https://github.com/naveed-gung/EmotionSense)
 
 Real-time facial emotion, age & gender detection — privacy-first Flutter app with Google ML Kit and TensorFlow Lite.
 
@@ -162,12 +162,12 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 ### GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=github_dark_dimmed&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github&cache_seconds=21600" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10&bg_color=00000000" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10&cache_seconds=21600" alt="Top Languages"/>
 </div>
 
 ---
@@ -191,4 +191,3 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=100&section=footer" width="100%"/>
-</div>
