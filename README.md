@@ -5,7 +5,7 @@
 <h3 align="center">Software & Infrastructure Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Full-Stack+%7C+Cloud+%7C+Security+%7C+AI+%7C+3D+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Full-Stack+Development;Mobile+%26+Cross-Platform+Apps;ERP+Systems+%26+Solutions;Cloud+Architecture+%26+DevOps;Cybersecurity+%26+Threat+Detection;AI-Powered+Experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -179,22 +179,12 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 ### GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github&bg_color=22272e&title_color=58a6ff&icon_color=3fb950&text_color=adbac7&ring_color=58a6ff" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=naveed-gung&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=naveed-gung&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveed-gung&theme=github-dark-dimmed&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-  </picture>
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10&bg_color=22272e&title_color=58a6ff&text_color=adbac7" alt="Top Languages"/>
 </div>
 
 ---
@@ -227,12 +217,6 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 
 <div align="center">
   <b>Open to opportunities in Software Engineering, Cybersecurity, Cloud Infrastructure & Full-Stack Development</b>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveed-gung&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
