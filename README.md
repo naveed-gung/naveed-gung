@@ -23,38 +23,34 @@ Software & Infrastructure Engineer with a foundation in Management Information S
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/shield.svg" width="16" height="16" /> &nbsp;Building **kernel-level threat detection** & **container security** systems
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/cloud.svg" width="16" height="16" /> &nbsp;Engineering **cloud-native CI/CD pipelines** & **serverless architectures**
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/cpu.svg" width="16" height="16" /> &nbsp;Creating **AI-powered systems** — voice assistants, emotion recognition & 3D avatar chat
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/layers.svg" width="16" height="16" /> &nbsp;Crafting **immersive 3D web experiences** with Three.js, React Three Fiber & Blender
-
+<img src="https://api.iconify.design/lucide/shield-check.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Building <b>kernel-level threat detection</b> &amp; <b>container security</b> systems
 </td>
 <td width="50%" valign="top">
-
-<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/smartphone.svg" width="16" height="16" /> &nbsp;Developing **cross-platform mobile apps** with React Native & Flutter
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/aperture.svg" width="16" height="16" /> &nbsp;Designing **AR-powered security assessment** tooling for physical & network evaluations
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/server.svg" width="16" height="16" /> &nbsp;**DevOps automation** with Docker, AWS, Azure & GCP
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/globe.svg" width="16" height="16" /> &nbsp;Portfolio: **[naveed-gung.dev](https://naveed-gung.dev)**
-
+<img src="https://api.iconify.design/lucide/smartphone.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Developing <b>cross-platform mobile apps</b> with React Native &amp; Flutter
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/lucide/workflow.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Engineering <b>cloud-native CI/CD pipelines</b> &amp; <b>serverless architectures</b>
+</td>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/lucide/scan-eye.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Designing <b>AR-powered security assessment</b> tooling for physical &amp; network evaluations
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Creating <b>AI-powered systems</b> — voice assistants, emotion recognition &amp; 3D avatar chat
+</td>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/lucide/container.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;<b>DevOps automation</b> with Docker, AWS, Azure &amp; GCP
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/lucide/boxes.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Crafting <b>immersive 3D web experiences</b> with Three.js, React Three Fiber &amp; Blender
+</td>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/lucide/globe.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Portfolio: <b><a href="https://naveed-gung.dev">naveed-gung.dev</a></b>
 </td>
 </tr>
 </table>
@@ -87,7 +83,7 @@ Cross-platform, kernel-integrated real-time threat detection — rootkits, memor
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/shield.svg" width="22" height="22" alt="AR-SEC" /> [AR-SEC](https://github.com/naveed-gung/AR-SEC)
+#### <img src="https://api.iconify.design/lucide/scan-eye.svg?color=%2358A6FF" width="22" height="22" alt="AR-SEC" /> [AR-SEC](https://github.com/naveed-gung/AR-SEC)
 
 Mobile security assessment toolkit leveraging Augmented Reality for physical and network security evaluations with real-time threat intelligence overlays.
 
@@ -107,7 +103,7 @@ Real-time 3D avatar chat with AI-powered conversations, text-to-speech, and life
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/box.svg" width="22" height="22" alt="Elite Showroom" /> [Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
+#### <img src="https://api.iconify.design/lucide/car.svg?color=%2358A6FF" width="22" height="22" alt="Elite Showroom" /> [Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
 
 Cinematic luxury car showroom — Blender-authored visuals, glassmorphic UI, per-country car selection, interior/exterior exploration with audio.
 
