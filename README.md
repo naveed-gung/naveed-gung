@@ -22,32 +22,42 @@ Software & Infrastructure Engineer with a foundation in Management Information S
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/naveed-gung/naveed-gung/main/icons/shield.svg" width="16" height="16" /> Building **kernel-level threat detection** & **container security** systems
+<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/shield.svg" width="16" height="16" /> &nbsp;Building **kernel-level threat detection** & **container security** systems
 
-<img src="https://raw.githubusercontent.com/naveed-gung/naveed-gung/main/icons/cloud.svg" width="16" height="16" /> Engineering **cloud-native CI/CD pipelines** & **serverless architectures**
+<br/>
 
-<img src="https://raw.githubusercontent.com/naveed-gung/naveed-gung/main/icons/cpu.svg" width="16" height="16" /> Creating **AI-powered systems** — voice assistants, emotion recognition & 3D avatar chat
+<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/cloud.svg" width="16" height="16" /> &nbsp;Engineering **cloud-native CI/CD pipelines** & **serverless architectures**
 
-<img src="https://raw.githubusercontent.com/naveed-gung/naveed-gung/main/icons/layers.svg" width="16" height="16" /> Crafting **immersive 3D web experiences** with Three.js, React Three Fiber & Blender
+<br/>
+
+<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/cpu.svg" width="16" height="16" /> &nbsp;Creating **AI-powered systems** — voice assistants, emotion recognition & 3D avatar chat
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/layers.svg" width="16" height="16" /> &nbsp;Crafting **immersive 3D web experiences** with Three.js, React Three Fiber & Blender
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/naveed-gung/naveed-gung/main/icons/smartphone.svg" width="16" height="16" /> Developing **cross-platform mobile apps** with React Native & Flutter
+<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/smartphone.svg" width="16" height="16" /> &nbsp;Developing **cross-platform mobile apps** with React Native & Flutter
 
-<img src="https://raw.githubusercontent.com/naveed-gung/naveed-gung/main/icons/scan.svg" width="16" height="16" /> Designing **AR-powered security assessment** tooling for physical & network evaluations
+<br/>
 
-<img src="https://raw.githubusercontent.com/naveed-gung/naveed-gung/main/icons/server.svg" width="16" height="16" /> **DevOps automation** with Docker, AWS, Azure & GCP
+<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/aperture.svg" width="16" height="16" /> &nbsp;Designing **AR-powered security assessment** tooling for physical & network evaluations
 
-<img src="https://raw.githubusercontent.com/naveed-gung/naveed-gung/main/icons/globe.svg" width="16" height="16" /> Portfolio: **[naveed-gung.dev](https://naveed-gung.dev)**
+<br/>
+
+<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/server.svg" width="16" height="16" /> &nbsp;**DevOps automation** with Docker, AWS, Azure & GCP
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/globe.svg" width="16" height="16" /> &nbsp;Portfolio: **[naveed-gung.dev](https://naveed-gung.dev)**
 
 </td>
 </tr>
 </table>
-
-> **Note:** The SVG icons above are hosted in your profile repo. See the icon reference table below — copy each SVG into your `naveed-gung/naveed-gung` repo under an `icons/` folder, or swap the `src` paths to any CDN you prefer (e.g. Feather Icons via jsDelivr).
 
 ---
 
@@ -77,7 +87,7 @@ Cross-platform, kernel-integrated real-time threat detection — rootkits, memor
 <tr>
 <td width="50%" valign="top">
 
-#### <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><circle cx="12" cy="12" r="3"/></svg> [AR-SEC](https://github.com/naveed-gung/AR-SEC)
+#### <img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/shield.svg" width="22" height="22" alt="AR-SEC" /> [AR-SEC](https://github.com/naveed-gung/AR-SEC)
 
 Mobile security assessment toolkit leveraging Augmented Reality for physical and network security evaluations with real-time threat intelligence overlays.
 
@@ -97,7 +107,7 @@ Real-time 3D avatar chat with AI-powered conversations, text-to-speech, and life
 <tr>
 <td width="50%" valign="top">
 
-#### <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/><circle cx="12" cy="14" r="2"/><line x1="12" y1="16" x2="12" y2="19"/></svg> [Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
+#### <img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/box.svg" width="22" height="22" alt="Elite Showroom" /> [Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
 
 Cinematic luxury car showroom — Blender-authored visuals, glassmorphic UI, per-country car selection, interior/exterior exploration with audio.
 
@@ -187,35 +197,13 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 ### GitHub Statistics
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10&bg_color=22272e&title_color=58a6ff&text_color=adbac7" alt="Top Languages"/>
+  <img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10&bg_color=22272e&title_color=58a6ff&text_color=adbac7" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github&bg_color=22272e&title_color=58a6ff&icon_color=3fb950&text_color=adbac7&ring_color=58a6ff" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-### Icon Reference — About Section
-
-> These inline SVGs replace the Animated Fluent Emoji icons. You can either embed them directly in your README as inline `<svg>` tags, or host the files in your profile repo (`naveed-gung/naveed-gung`) under an `icons/` folder and reference them as `<img src="...">`.
-
-| Bullet | Icon name | Inline SVG |
-|---|---|---|
-| Kernel / security | `shield.svg` | `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>` |
-| CI/CD / cloud | `cloud.svg` | `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg>` |
-| AI systems | `cpu.svg` | `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="9" y1="20" x2="9" y2="23"/><line x1="15" y1="20" x2="15" y2="23"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="14" x2="23" y2="14"/><line x1="1" y1="9" x2="4" y2="9"/><line x1="1" y1="14" x2="4" y2="14"/></svg>` |
-| 3D / immersive | `layers.svg` | `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>` |
-| Mobile apps | `smartphone.svg` | `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>` |
-| AR security | `scan.svg` | `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 7 4 4 7 4"/><polyline points="20 7 20 4 17 4"/><polyline points="4 17 4 20 7 20"/><polyline points="20 17 20 20 17 20"/><line x1="4" y1="12" x2="20" y2="12"/></svg>` |
-| DevOps | `server.svg` | `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="8" rx="2"/><rect x="2" y="14" width="20" height="8" rx="2"/><line x1="6" y1="6" x2="6.01" y2="6"/><line x1="6" y1="18" x2="6.01" y2="18"/></svg>` |
-| Portfolio | `globe.svg` | `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>` |
-
-**Usage note:** GitHub's Markdown renderer strips inline `<svg>` tags for security reasons. You must host each SVG as a file and reference it via `<img src="...">`. The recommended approach is to add them to your profile repo (`github.com/naveed-gung/naveed-gung`) in an `icons/` subfolder, then use:
-```
-<img src="https://raw.githubusercontent.com/naveed-gung/naveed-gung/main/icons/shield.svg" width="16" height="16" />
-```
 
 ---
 
