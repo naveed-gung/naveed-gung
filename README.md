@@ -1,69 +1,167 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=180&section=header&text=Naveed%20Sohail%20Gung&fontSize=42&fontAlignY=32&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0D0D0D,100,1A0A00&height=6&section=header" width="100%"/>
+
+<!-- HEADER BLOCK -->
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" mode="multiply" result="blend"/>
+      <feComposite in="blend" in2="SourceGraphic" operator="in"/>
+    </filter>
+    <filter id="roughen">
+      <feTurbulence type="turbulence" baseFrequency="0.015" numOctaves="2" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="860" height="160" fill="#0D0D0D"/>
+  <!-- Graffiti splatter marks -->
+  <ellipse cx="780" cy="28" rx="18" ry="7" fill="#C45200" opacity="0.55" transform="rotate(-18 780 28)" filter="url(#roughen)"/>
+  <ellipse cx="800" cy="55" rx="6" ry="6" fill="#C45200" opacity="0.35"/>
+  <ellipse cx="760" cy="70" rx="3" ry="3" fill="#E05A00" opacity="0.4"/>
+  <ellipse cx="820" cy="42" rx="2" ry="2" fill="#FF6B1A" opacity="0.5"/>
+  <ellipse cx="90" cy="130" rx="14" ry="5" fill="#C45200" opacity="0.4" transform="rotate(12 90 130)" filter="url(#roughen)"/>
+  <ellipse cx="65" cy="110" rx="4" ry="4" fill="#E05A00" opacity="0.3"/>
+  <!-- Arrow motifs — stencil style -->
+  <polygon points="40,75 58,65 58,71 80,71 80,79 58,79 58,85" fill="#FF6B1A" opacity="0.18"/>
+  <polygon points="810,100 828,90 828,96 850,96 850,104 828,104 828,110" fill="#FF6B1A" opacity="0.14"/>
+  <!-- Horizontal rule lines — raw brush stroke feel -->
+  <rect x="0" y="0" width="860" height="2" fill="#C45200" opacity="0.6"/>
+  <rect x="0" y="158" width="860" height="2" fill="#C45200" opacity="0.6"/>
+  <!-- Name -->
+  <text x="430" y="72" font-family="'Courier New', monospace" font-size="46" font-weight="900" letter-spacing="6" fill="#F0EDE8" text-anchor="middle" dominant-baseline="middle">NAVEED SOHAIL GUNG</text>
+  <!-- Underline slash mark -->
+  <rect x="160" y="88" width="540" height="1.5" fill="#C45200" opacity="0.7"/>
+  <!-- Subtitle -->
+  <text x="430" y="118" font-family="'Courier New', monospace" font-size="13" font-weight="400" letter-spacing="8" fill="#9E8E7E" text-anchor="middle">SOFTWARE  &amp;  INFRASTRUCTURE  ENGINEER</text>
+</svg>
+
 </div>
 
-<h3 align="center">Software & Infrastructure Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Full-Stack+Development;Mobile+%26+Cross-Platform+Apps;ERP+Systems+%26+Solutions;Cloud+Architecture+%26+DevOps;Cybersecurity+%26+Threat+Detection;AI-Powered+Experiences" alt="Typing SVG" />
-</p>
+[![Portfolio](https://img.shields.io/badge/naveed--gung.dev-0D0D0D?style=flat-square&logo=googlechrome&logoColor=FF6B1A&labelColor=0D0D0D)](https://naveed-gung.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=FF6B1A&labelColor=0D0D0D)](https://www.linkedin.com/in/naveed-sohail-gung-285645310)&nbsp;
+[![Email](https://img.shields.io/badge/naveedsohailg%40gmail.com-0D0D0D?style=flat-square&logo=gmail&logoColor=FF6B1A&labelColor=0D0D0D)](mailto:naveedsohailg@gmail.com)
 
-<p align="center">
-  <a href="https://naveed-gung.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-naveed--gung.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/naveed-sohail-gung-285645310" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-naveed--sohail--gung-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:naveedsohailg@gmail.com"><img src="https://img.shields.io/badge/Email-naveedsohailg-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
----
+<br/>
 
-### About
+<div align="center">
 
-Software & Infrastructure Engineer with a foundation in Management Information Systems, specializing in building scalable web applications, cross-platform mobile apps, and cloud solutions with DevOps automation and cybersecurity by design.
+<svg width="860" height="2" viewBox="0 0 860 2" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="2" fill="#1E1E1E"/>
+  <rect x="0" y="0" width="200" height="2" fill="#C45200" opacity="0.8"/>
+  <rect x="660" y="0" width="200" height="2" fill="#C45200" opacity="0.8"/>
+</svg>
 
+</div>
+
+<br/>
+
+<!-- ABOUT -->
+
+<div align="center">
+
+<svg width="860" height="32" viewBox="0 0 860 32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="32" fill="#0D0D0D"/>
+  <polygon points="22,16 36,9 36,13 860,13 860,19 36,19 36,23" fill="#C45200" opacity="0.85"/>
+  <text x="46" y="21" font-family="'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="5" fill="#0D0D0D">ABOUT</text>
+</svg>
+
+</div>
+
+<br/>
+
+Full-stack engineer and security tool builder with a foundation in Management Information Systems. I build scalable web applications, cross-platform mobile apps, cloud infrastructure, and adversarial security systems — with a consistent bias toward production quality and offensive-minded design.
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/shield-check.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Building <b>kernel-level threat detection</b> &amp; <b>container security</b> systems
+
+```
+[>] Kernel-level threat detection
+    & container security systems
+```
+
 </td>
 <td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/smartphone.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Developing <b>cross-platform mobile apps</b> with React Native &amp; Flutter
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/workflow.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Engineering <b>cloud-native CI/CD pipelines</b> &amp; <b>serverless architectures</b>
-</td>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/scan-eye.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Designing <b>AR-powered security assessment</b> tooling for physical &amp; network evaluations
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Creating <b>AI-powered systems</b> — voice assistants, emotion recognition &amp; 3D avatar chat
-</td>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/container.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;<b>DevOps automation</b> with Docker, AWS, Azure &amp; GCP
+
+```
+[>] Cross-platform mobile with
+    React Native & Flutter
+```
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/boxes.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Crafting <b>immersive 3D web experiences</b> with Three.js, React Three Fiber &amp; Blender
+
+```
+[>] Cloud-native CI/CD pipelines
+    & serverless architectures
+```
+
 </td>
 <td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/globe.svg?color=%2358A6FF" width="18" height="18" /> &nbsp;Portfolio: <b><a href="https://naveed-gung.dev">naveed-gung.dev</a></b>
+
+```
+[>] AR-powered security assessment
+    tooling & network evaluation
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```
+[>] AI-powered systems — voice,
+    emotion recognition, 3D avatar
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+[>] DevOps automation via
+    Docker, AWS, Azure & GCP
+```
+
 </td>
 </tr>
 </table>
+</div>
 
----
+<br/>
 
-### Featured Projects
+<!-- PROJECTS -->
 
+<div align="center">
+
+<svg width="860" height="32" viewBox="0 0 860 32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="32" fill="#0D0D0D"/>
+  <polygon points="22,16 36,9 36,13 860,13 860,19 36,19 36,23" fill="#C45200" opacity="0.85"/>
+  <text x="46" y="21" font-family="'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="5" fill="#0D0D0D">FEATURED PROJECTS</text>
+</svg>
+
+</div>
+
+<br/>
+
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/naveed-gung/ZERO-DAY-GUARDIAN/main/assets/logo.svg" width="22" height="22" alt="ZDG" /> [ZERO-DAY-GUARDIAN](https://github.com/naveed-gung/ZERO-DAY-GUARDIAN)
+**[ZERO-DAY-GUARDIAN](https://github.com/naveed-gung/ZERO-DAY-GUARDIAN)**
 
 Real-time container threat detection, automated defense, and forensic evidence collection.
 
@@ -72,9 +170,9 @@ Real-time container threat detection, automated defense, and forensic evidence c
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/naveed-gung/S.T.A.R---System-Threat---Anomaly-Radar/main/docs/star-banner.svg" width="22" height="22" alt="STAR" /> [S.T.A.R — System Threat & Anomaly Radar](https://github.com/naveed-gung/S.T.A.R---System-Threat---Anomaly-Radar)
+**[S.T.A.R — System Threat & Anomaly Radar](https://github.com/naveed-gung/S.T.A.R---System-Threat---Anomaly-Radar)**
 
-Cross-platform, kernel-integrated real-time threat detection — rootkits, memory anomalies, and beyond.
+Cross-platform kernel-integrated real-time threat detection — rootkits, memory anomalies, and beyond.
 
 `C` `Electron` `WebGL` `SQLite` `CMake` `WDM`
 
@@ -83,16 +181,16 @@ Cross-platform, kernel-integrated real-time threat detection — rootkits, memor
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/scan-eye.svg?color=%2358A6FF" width="22" height="22" alt="AR-SEC" /> [AR-SEC](https://github.com/naveed-gung/AR-SEC)
+**[AR-SEC](https://github.com/naveed-gung/AR-SEC)**
 
-Mobile security assessment toolkit leveraging Augmented Reality for physical and network security evaluations with real-time threat intelligence overlays.
+Mobile security assessment toolkit leveraging Augmented Reality for physical and network evaluations with real-time threat intelligence overlays.
 
 `React Native` `TypeScript` `AR`
 
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/naveed-gung/jenny/main/frontend/public/logo.svg" width="22" height="22" alt="Jenny" /> [Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
+**[Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)**
 
 Real-time 3D avatar chat with AI-powered conversations, text-to-speech, and lifelike Blender-authored visuals.
 
@@ -103,16 +201,16 @@ Real-time 3D avatar chat with AI-powered conversations, text-to-speech, and life
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/car.svg?color=%2358A6FF" width="22" height="22" alt="Elite Showroom" /> [Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
+**[Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)**
 
-Cinematic luxury car showroom — Blender-authored visuals, glassmorphic UI, per-country car selection, interior/exterior exploration with audio.
+Cinematic luxury car showroom — Blender visuals, glassmorphic UI, per-country car selection, interior/exterior exploration with audio.
 
 `React` `Three.js` `React Three Fiber` `Zustand` `Tailwind` `Blender`
 
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/naveed-gung/Auto-Server-Script/main/logo.svg" width="22" height="22" alt="Auto-Server" /> [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
+**[Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)**
 
 Enterprise-grade automation that provisions complete MERN infrastructure with zero human intervention — production-ready in minutes.
 
@@ -123,7 +221,7 @@ Enterprise-grade automation that provisions complete MERN infrastructure with ze
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/naveed-gung/bazaar/main/logo.svg" width="22" height="22" alt="Bazaar" /> [Bazaar](https://github.com/naveed-gung/bazaar)
+**[Bazaar](https://github.com/naveed-gung/bazaar)**
 
 AI-powered e-commerce platform with intelligent recommendations, secure checkout, and inventory management.
 
@@ -132,7 +230,7 @@ AI-powered e-commerce platform with intelligent recommendations, secure checkout
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/naveed-gung/eduflow/main/client/public/favicon.svg" width="22" height="22" alt="EduFlow" /> [EduFlow](https://github.com/naveed-gung/eduflow)
+**[EduFlow](https://github.com/naveed-gung/eduflow)**
 
 Full-stack e-learning platform with course management, video streaming, assessments, and real-time progress tracking.
 
@@ -143,7 +241,7 @@ Full-stack e-learning platform with course management, video streaming, assessme
 <tr>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/naveed-gung/nova/main/logo.svg" width="22" height="22" alt="Nova" /> [Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
+**[Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)**
 
 Multilingual AI voice assistant supporting English, Arabic & French with natural browser-based conversation.
 
@@ -152,7 +250,7 @@ Multilingual AI voice assistant supporting English, Arabic & French with natural
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://raw.githubusercontent.com/naveed-gung/EmotionSense/main/logo.svg" width="22" height="22" alt="EmotionSense" /> [EmotionSense](https://github.com/naveed-gung/EmotionSense)
+**[EmotionSense](https://github.com/naveed-gung/EmotionSense)**
 
 Real-time facial emotion, age & gender detection — privacy-first Flutter app with Google ML Kit and TensorFlow Lite.
 
@@ -161,80 +259,148 @@ Real-time facial emotion, age & gender detection — privacy-first Flutter app w
 </td>
 </tr>
 </table>
-
-<p align="center"><i>→ <a href="https://github.com/naveed-gung?tab=repositories">View all repositories</a></i></p>
-
----
-
-### Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cs,go,rust,php,dart&perline=10" />
-
-**Frontend & Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,sass,threejs,flutter,vite,webpack,blender&perline=10" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,flask,mongodb,mysql,postgres,firebase,sqlite&perline=10" />
-
-**Cloud, DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git,github,postman,figma,vscode,netlify&perline=10" />
-
 </div>
 
----
+<div align="center"><i>→ <a href="https://github.com/naveed-gung?tab=repositories">View all repositories</a></i></div>
 
-### GitHub Statistics
+<br/>
 
-<div align="center">
-  <img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10&bg_color=22272e&title_color=58a6ff&text_color=adbac7" alt="Top Languages"/>
-</div>
+<!-- TECH STACK -->
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github&bg_color=22272e&title_color=58a6ff&icon_color=3fb950&text_color=adbac7&ring_color=58a6ff" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" />
-</div>
 
----
+<svg width="860" height="32" viewBox="0 0 860 32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="32" fill="#0D0D0D"/>
+  <polygon points="22,16 36,9 36,13 860,13 860,19 36,19 36,23" fill="#C45200" opacity="0.85"/>
+  <text x="46" y="21" font-family="'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="5" fill="#0D0D0D">TECH STACK</text>
+</svg>
 
-### Connect
-
-<div align="center">
-  <a href="https://naveed-gung.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/naveed-sohail-gung-285645310" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://www.instagram.com/naveed._.gung" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
-  <a href="mailto:naveedsohailg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=f6f8fa&height=2&section=header" />
-  </picture>
+
+<svg width="200" height="20" viewBox="0 0 200 20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-family="'Courier New', monospace" font-size="10" font-weight="700" letter-spacing="4" fill="#9E8E7E">LANGUAGES</text>
+</svg>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cs,go,rust,php,dart&perline=10&theme=dark" />
+
+<br/><br/>
+
+<svg width="240" height="20" viewBox="0 0 240 20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-family="'Courier New', monospace" font-size="10" font-weight="700" letter-spacing="4" fill="#9E8E7E">FRONTEND + MOBILE</text>
+</svg>
+
+<img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,sass,threejs,flutter,vite,webpack,blender&perline=10&theme=dark" />
+
+<br/><br/>
+
+<svg width="260" height="20" viewBox="0 0 260 20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-family="'Courier New', monospace" font-size="10" font-weight="700" letter-spacing="4" fill="#9E8E7E">BACKEND + DATABASE</text>
+</svg>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,flask,mongodb,mysql,postgres,firebase,sqlite&perline=10&theme=dark" />
+
+<br/><br/>
+
+<svg width="280" height="20" viewBox="0 0 280 20" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="15" font-family="'Courier New', monospace" font-size="10" font-weight="700" letter-spacing="4" fill="#9E8E7E">CLOUD + DEVOPS + TOOLS</text>
+</svg>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git,github,postman,figma,vscode,netlify&perline=10&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- STATS -->
+
+<div align="center">
+
+<svg width="860" height="32" viewBox="0 0 860 32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="32" fill="#0D0D0D"/>
+  <polygon points="22,16 36,9 36,13 860,13 860,19 36,19 36,23" fill="#C45200" opacity="0.85"/>
+  <text x="46" y="21" font-family="'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="5" fill="#0D0D0D">GITHUB STATISTICS</text>
+</svg>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20the%20blueprint%2C%20infrastructure%20is%20the%20foundation%2C%20and%20security%20is%20the%20armor.&author=Naveed%20Sohail%20Gung" alt="Quote" />
+  <img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naveed-gung&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=10&bg_color=0D0D0D&title_color=C45200&text_color=9E8E7E" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github&bg_color=0D0D0D&title_color=C45200&icon_color=E05A00&text_color=9E8E7E&ring_color=C45200" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=github_dark_dimmed&hide_border=true&background=0D0D0D&ring=C45200&fire=E05A00&currStreakLabel=9E8E7E" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+
+<div align="center">
+
+<svg width="860" height="32" viewBox="0 0 860 32" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="32" fill="#0D0D0D"/>
+  <polygon points="22,16 36,9 36,13 860,13 860,19 36,19 36,23" fill="#C45200" opacity="0.85"/>
+  <text x="46" y="21" font-family="'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="5" fill="#0D0D0D">CONNECT</text>
+</svg>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <b>Open to opportunities in Software Engineering, Cybersecurity, Cloud Infrastructure & Full-Stack Development</b>
+  <a href="https://naveed-gung.dev" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=FF6B1A&labelColor=0D0D0D" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/naveed-sohail-gung-285645310" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6B1A&labelColor=0D0D0D" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/naveed._.gung" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF6B1A&labelColor=0D0D0D" alt="Instagram"/>
+  </a>&nbsp;
+  <a href="mailto:naveedsohailg@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B1A&labelColor=0D0D0D" alt="Email"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=100&section=footer" width="100%"/>
+
+<svg width="860" height="60" viewBox="0 0 860 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="60" fill="#0D0D0D"/>
+  <!-- splatter accent -->
+  <ellipse cx="120" cy="30" rx="22" ry="8" fill="#C45200" opacity="0.3" transform="rotate(-10 120 30)"/>
+  <ellipse cx="740" cy="30" rx="22" ry="8" fill="#C45200" opacity="0.3" transform="rotate(10 740 30)"/>
+  <!-- Arrow left -->
+  <polygon points="180,30 196,22 196,27 240,27 240,33 196,33 196,38" fill="#FF6B1A" opacity="0.35"/>
+  <!-- Arrow right -->
+  <polygon points="680,30 664,22 664,27 620,27 620,33 664,33 664,38" fill="#FF6B1A" opacity="0.35"/>
+  <!-- Quote -->
+  <text x="430" y="35" font-family="'Courier New', monospace" font-size="11" font-weight="400" letter-spacing="2" fill="#6B5D50" text-anchor="middle">CODE IS THE BLUEPRINT. INFRASTRUCTURE IS THE FOUNDATION. SECURITY IS THE ARMOR.</text>
+</svg>
+
 </div>
+
+<div align="center">
+
+<svg width="860" height="8" viewBox="0 0 860 8" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="8" fill="#0D0D0D"/>
+  <rect x="0" y="6" width="860" height="2" fill="#C45200" opacity="0.7"/>
+</svg>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <b>Open to opportunities in Software Engineering &nbsp;/&nbsp; Cybersecurity &nbsp;/&nbsp; Cloud Infrastructure &nbsp;/&nbsp; Full-Stack Development</b>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0D0D0D,100,1A0A00&height=6&section=footer" width="100%"/>
