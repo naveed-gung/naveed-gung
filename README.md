@@ -272,22 +272,6 @@ One-command **MERN infrastructure provisioner** — zero human intervention from
 
 <br/>
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveed-gung&bg_color=0d0d0d&color=e85d04&line=e85d04&point=ffffff&area=true&area_color=e85d04&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</div>
-
-<br/>
-
----
-
-### `> ps aux --active`
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=2000&color=e85d04&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=[ACTIVE]+PRISM+—+Multi-agent+Copilot+system+w%2F+MCP+integrations;[ACTIVE]+Hotel+Transylvania+—+Angular+18+%2B+.NET+8+ERP+%2B+public+site;[ACTIVE]+career-ops+—+AI+job+search+agent+cluster+(Claude+Sonnet)" alt="Currently Building" />
-</div>
-
-<br/>
-
 ---
 
 ### `> cat ./experience.log`
