@@ -27,15 +27,7 @@
 <br/>
 
 <div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  Full-Stack Engineer | Beirut, Lebanon                ▓
-▓  B.S. Management Information Systems (in progress)   ▓
-▓  Building: Web · Mobile · Security · 3D · AI          ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=90&text=Full-Stack%20Engineer%20%7C%20Beirut%2C%20Lebanon&fontSize=18&fontColor=e85d04&fontAlignY=30&desc=B.S.%20MIS%20(in%20progress)%20%E2%80%A2%20Web%20%C2%B7%20Mobile%20%C2%B7%20Security%20%C2%B7%203D%20%C2%B7%20AI&descSize=14&descAlignY=62&descColor=adbac7" width="600"/>
 </div>
 
 <br/>
@@ -276,6 +268,22 @@ One-command **MERN infrastructure provisioner** — zero human intervention from
 <div align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naveed-gung&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&rank_icon=github&bg_color=0d0d0d&title_color=e85d04&icon_color=e85d04&text_color=adbac7&ring_color=e85d04" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=naveed-gung&theme=dark&hide_border=true&background=0d0d0d&fire=e85d04&ring=e85d04&currStreakLabel=e85d04&sideLabels=adbac7&dates=adbac7" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=naveed-gung&bg_color=0d0d0d&color=e85d04&line=e85d04&point=ffffff&area=true&area_color=e85d04&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</div>
+
+<br/>
+
+---
+
+### `> ps aux --active`
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=2000&color=e85d04&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=[ACTIVE]+PRISM+—+Multi-agent+Copilot+system+w%2F+MCP+integrations;[ACTIVE]+Hotel+Transylvania+—+Angular+18+%2B+.NET+8+ERP+%2B+public+site;[ACTIVE]+career-ops+—+AI+job+search+agent+cluster+(Claude+Sonnet)" alt="Currently Building" />
 </div>
 
 <br/>
