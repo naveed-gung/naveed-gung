@@ -26,6 +26,8 @@
 
 <br/>
 
+<div align="center">
+
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ▓  Full-Stack Engineer | Beirut, Lebanon                ▓
@@ -33,6 +35,8 @@
 ▓  Building: Web · Mobile · Security · 3D · AI          ▓
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
+
+</div>
 
 <br/>
 
@@ -44,35 +48,39 @@ I don't specialize in one layer. I own the full stack: **design system → compo
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/hammer.svg?color=%23e85d04" width="18" height="18" /> &nbsp;Engineering <b>full-stack web & mobile</b> products end-to-end
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/hammer.svg?color=%23e85d04" width="32" height="32" /><br/>
+Engineering <b>full-stack web & mobile</b> products end-to-end
 </td>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/zap.svg?color=%23e85d04" width="18" height="18" /> &nbsp;Architecting <b>scalable REST / real-time APIs</b> with Node.js & .NET
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/zap.svg?color=%23e85d04" width="32" height="32" /><br/>
+Architecting <b>scalable REST / real-time APIs</b> with Node.js & .NET
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/box.svg?color=%23e85d04" width="18" height="18" /> &nbsp;Crafting <b>immersive 3D web experiences</b> with Three.js & Blender
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/box.svg?color=%23e85d04" width="32" height="32" /><br/>
+Crafting <b>immersive 3D web experiences</b> with Three.js & Blender
 </td>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23e85d04" width="18" height="18" /> &nbsp;Building <b>AI-powered products</b> — voice, vision, and intelligent UX
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/shield-check.svg?color=%23e85d04" width="18" height="18" /> &nbsp;Designing <b>security-first systems</b> — threat detection & forensics
-</td>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/smartphone.svg?color=%23e85d04" width="18" height="18" /> &nbsp;Shipping <b>cross-platform mobile apps</b> with React Native & Flutter
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23e85d04" width="32" height="32" /><br/>
+Building <b>AI-powered products</b> — voice, vision, and intelligent UX
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/building-2.svg?color=%23e85d04" width="18" height="18" /> &nbsp;Engineering <b>enterprise ERP & multi-tenant</b> platforms with ABP & C#
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/shield-check.svg?color=%23e85d04" width="32" height="32" /><br/>
+Designing <b>security-first systems</b> — threat detection & forensics
 </td>
-<td width="50%" valign="top">
-<img src="https://api.iconify.design/lucide/workflow.svg?color=%23e85d04" width="18" height="18" /> &nbsp;Automating <b>deployments & CI/CD pipelines</b> with Docker & GitHub Actions
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/smartphone.svg?color=%23e85d04" width="32" height="32" /><br/>
+Shipping <b>cross-platform mobile apps</b> with React Native & Flutter
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/building-2.svg?color=%23e85d04" width="32" height="32" /><br/>
+Engineering <b>enterprise ERP & multi-tenant</b> platforms with ABP & C#
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide/workflow.svg?color=%23e85d04" width="32" height="32" /><br/>
+Automating <b>deployments & CI/CD pipelines</b> with Docker & GitHub Actions
 </td>
 </tr>
 </table>
@@ -123,18 +131,22 @@ I don't specialize in one layer. I own the full stack: **design system → compo
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/shield-ban.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[ZERO-DAY-GUARDIAN](https://github.com/naveed-gung/ZERO-DAY-GUARDIAN)
+<img src="https://api.iconify.design/lucide/shield-ban.svg?color=%23e85d04" width="36" height="36" />
+
+#### [ZERO-DAY-GUARDIAN](https://github.com/naveed-gung/ZERO-DAY-GUARDIAN)
 
 Real-time **container threat detection** engine with automated defense response and forensic evidence collection. eBPF-powered kernel instrumentation, Kubernetes operator, and incident timeline reconstruction.
 
 `Java` `Go` `Rust` `Spring Boot` `eBPF` `Kubebuilder`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/radar.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[S.T.A.R — Threat & Anomaly Radar](https://github.com/naveed-gung/S.T.A.R---System-Threat---Anomaly-Radar)
+<img src="https://api.iconify.design/lucide/radar.svg?color=%23e85d04" width="36" height="36" />
+
+#### [S.T.A.R — Threat & Anomaly Radar](https://github.com/naveed-gung/S.T.A.R---System-Threat---Anomaly-Radar)
 
 Kernel-integrated **cross-platform threat detection** targeting rootkits, memory anomalies, and process injection — with a WebGL-powered real-time dashboard.
 
@@ -143,18 +155,22 @@ Kernel-integrated **cross-platform threat detection** targeting rootkits, memory
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/bot.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
+<img src="https://api.iconify.design/lucide/bot.svg?color=%23e85d04" width="36" height="36" />
+
+#### [Jenny — 3D AI Avatar Chat](https://github.com/naveed-gung/jenny)
 
 Full-stack AI chat platform with a **real-time 3D avatar**, lip-synced TTS, and Blender-authored character model. WebSocket-driven, MERN backend.
 
 `React` `Three.js` `Node.js` `MongoDB` `Blender` `WebSocket`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/car.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
+<img src="https://api.iconify.design/lucide/car.svg?color=%23e85d04" width="36" height="36" />
+
+#### [Elite Showroom](https://github.com/naveed-gung/Elite-Showroom)
 
 Cinematic **luxury car configurator** — Blender-authored models, glassmorphic UI, spatial audio, per-country inventory, interior/exterior exploration mode.
 
@@ -170,18 +186,22 @@ Cinematic **luxury car configurator** — Blender-authored models, glassmorphic 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[Bazaar](https://github.com/naveed-gung/bazaar)
+<img src="https://api.iconify.design/lucide/shopping-bag.svg?color=%23e85d04" width="36" height="36" />
+
+#### [Bazaar](https://github.com/naveed-gung/bazaar)
 
 AI-powered **e-commerce platform** — intelligent product recommendations, secure checkout flow, real-time inventory management, and admin analytics dashboard.
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `Stripe`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[EduFlow](https://github.com/naveed-gung/eduflow)
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23e85d04" width="36" height="36" />
+
+#### [EduFlow](https://github.com/naveed-gung/eduflow)
 
 Production **e-learning platform** with course management, video streaming pipeline, quiz assessments, certificates, and real-time learner progress tracking.
 
@@ -190,18 +210,22 @@ Production **e-learning platform** with course management, video streaming pipel
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/mic.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
+<img src="https://api.iconify.design/lucide/mic.svg?color=%23e85d04" width="36" height="36" />
+
+#### [Nova — AI Voice Assistant](https://github.com/naveed-gung/nova)
 
 **Multilingual voice AI** supporting English, Arabic & French with browser-native speech recognition, context-aware replies, and conversational memory.
 
 `React` `TypeScript` `Tailwind CSS` `Web Speech API`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/scan-eye.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[AR-SEC](https://github.com/naveed-gung/AR-SEC)
+<img src="https://api.iconify.design/lucide/scan-eye.svg?color=%23e85d04" width="36" height="36" />
+
+#### [AR-SEC](https://github.com/naveed-gung/AR-SEC)
 
 Mobile **security assessment toolkit** using Augmented Reality overlays for physical and network threat evaluation with real-time intelligence feeds.
 
@@ -210,18 +234,22 @@ Mobile **security assessment toolkit** using Augmented Reality overlays for phys
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/scan-face.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[EmotionSense](https://github.com/naveed-gung/EmotionSense)
+<img src="https://api.iconify.design/lucide/scan-face.svg?color=%23e85d04" width="36" height="36" />
+
+#### [EmotionSense](https://github.com/naveed-gung/EmotionSense)
 
 Privacy-first **on-device emotion detection** — real-time facial analysis, age & gender inference, fully offline with TensorFlow Lite and ML Kit.
 
 `Flutter` `Dart` `TensorFlow Lite` `Google ML Kit`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-#### <img src="https://api.iconify.design/lucide/terminal.svg?color=%23e85d04" width="20" height="20" /> &nbsp;[Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
+<img src="https://api.iconify.design/lucide/terminal.svg?color=%23e85d04" width="36" height="36" />
+
+#### [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
 
 One-command **MERN infrastructure provisioner** — zero human intervention from bare VPS to SSL-terminated, PM2-managed, Dockerized production stack.
 
@@ -282,21 +310,44 @@ One-command **MERN infrastructure provisioner** — zero human intervention from
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="18" height="18" /> &nbsp;**FreeCodeCamp** — JavaScript Algorithms & Data Structures
+<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="32" height="32" />
 
-<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="18" height="18" /> &nbsp;**FreeCodeCamp** — Python & C# Certifications
-
-<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="18" height="18" /> &nbsp;**FreeCodeCamp** — Responsive Web Design
+**FreeCodeCamp**<br/>JavaScript Algorithms & Data Structures
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="18" height="18" /> &nbsp;**Johns Hopkins / Coursera** — Full-Stack Web Development
+<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="32" height="32" />
 
-<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="18" height="18" /> &nbsp;**AWS** — Essentials, Fargate, Containers, Billing & Cost Management
+**FreeCodeCamp**<br/>Python & C# Certifications
 
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="32" height="32" />
+
+**FreeCodeCamp**<br/>Responsive Web Design
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="32" height="32" />
+
+**Johns Hopkins / Coursera**<br/>Full-Stack Web Development
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="32" height="32" />
+
+**AWS**<br/>Essentials, Fargate, Containers, Billing & Cost Management
+
+</td>
+<td width="33%" align="center" valign="top">
 </td>
 </tr>
 </table>
