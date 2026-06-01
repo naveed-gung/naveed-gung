@@ -371,7 +371,7 @@ One-command **MERN infrastructure provisioner** — zero human intervention from
 
 ```
 Open to Full-Stack, Software Engineering & Cybersecurity roles
-Remote · Beirut, Lebanon · Relocation considered
+Remote · Beirut, Lebanon 
 ```
 
 </div>
