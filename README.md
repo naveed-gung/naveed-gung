@@ -215,6 +215,26 @@ Production **e-learning platform** with course management, video streaming pipel
 </td>
 <td width="50%" align="center" valign="top">
 
+<img src="https://api.iconify.design/lucide/terminal.svg?color=%23e85d04" width="36" height="36" />
+
+#### [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
+
+One-command **MERN infrastructure provisioner** — zero human intervention from bare VPS to SSL-terminated, PM2-managed, Dockerized production stack.
+
+`Shell` `Docker` `Node.js` `MongoDB` `PM2` `Certbot`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23e85d04" width="18" height="18" /> &nbsp;Mobile Apps
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
 <img src="https://api.iconify.design/lucide/scan-eye.svg?color=%23e85d04" width="36" height="36" />
 
 #### [AR-SEC](https://github.com/naveed-gung/AR-SEC)
@@ -224,8 +244,6 @@ Mobile **security assessment toolkit** using Augmented Reality overlays for phys
 `React Native` `TypeScript` `ARKit` `ARCore`
 
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 
 <img src="https://api.iconify.design/lucide/scan-face.svg?color=%23e85d04" width="36" height="36" />
@@ -237,16 +255,20 @@ Privacy-first **on-device emotion detection** — real-time facial analysis, age
 `Flutter` `Dart` `TensorFlow Lite` `Google ML Kit`
 
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://api.iconify.design/lucide/terminal.svg?color=%23e85d04" width="36" height="36" />
+<img src="https://api.iconify.design/lucide/music-2.svg?color=%23e85d04" width="36" height="36" />
 
-#### [Auto-Server-Script](https://github.com/naveed-gung/Auto-Server-Script)
+#### [Monolith](https://github.com/naveed-gung/monolith)
 
-One-command **MERN infrastructure provisioner** — zero human intervention from bare VPS to SSL-terminated, PM2-managed, Dockerized production stack.
+Offline-first **music player** — local library management, smart auto-curated playlists, synced lyrics, equalizer, and full lock-screen / media-notification integration on Android & iOS.
 
-`Shell` `Docker` `Node.js` `MongoDB` `PM2` `Certbot`
+`Flutter` `Dart` `just_audio` `audio_session` `Offline-First`
 
+</td>
+<td width="50%" align="center" valign="top">
 </td>
 </tr>
 </table>
@@ -306,7 +328,7 @@ One-command **MERN infrastructure provisioner** — zero human intervention from
 
 <img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="32" height="32" />
 
-**FreeCodeCamp**<br/>JavaScript Algorithms & Data Structures
+**FreeCodeCamp**<br/>JavaScript Algorithms & Data Structures · Responsive Web Design
 
 </td>
 <td width="33%" align="center" valign="top">
@@ -320,7 +342,7 @@ One-command **MERN infrastructure provisioner** — zero human intervention from
 
 <img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="32" height="32" />
 
-**FreeCodeCamp**<br/>Responsive Web Design
+**Cisco Networking Academy**<br/>Cybersecurity Fundamentals · Emerging Tech
 
 </td>
 </tr>
@@ -340,6 +362,11 @@ One-command **MERN infrastructure provisioner** — zero human intervention from
 
 </td>
 <td width="33%" align="center" valign="top">
+
+<img src="https://api.iconify.design/lucide/badge-check.svg?color=%23e85d04" width="32" height="32" />
+
+**Anthropic**<br/>Claude Code in Action · Introduction to Agent Skills · Introduction to Subagents
+
 </td>
 </tr>
 </table>
