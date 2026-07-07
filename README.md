@@ -299,6 +299,12 @@ Offline-first **music player** — local library management, smart auto-curated 
 ### `> cat ./experience.log`
 
 ```
+[2025.11 → Present]  Auvia Groups — Full-Stack & Mobile Engineer (Contract)
+                     ├── Continued on contract following the internship
+                     ├── Angular + .NET enterprise features & Odoo 19 ERP work
+                     ├── AI integrations, infrastructure & deployment automation
+                     └── Shipping production features across web, mobile & ERP
+
 [2025.08 → 2025.12]  Auvia Groups — Full-Stack & Mobile Engineer
                      ├── Blazor + C# + ABP Framework enterprise modules
                      ├── Odoo ERP customization & business process automation
