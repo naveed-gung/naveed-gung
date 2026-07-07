@@ -305,7 +305,7 @@ Offline-first **music player** — local library management, smart auto-curated 
                      ├── AI integrations, infrastructure & deployment automation
                      └── Shipping production features across web, mobile & ERP
 
-[2025.08 → 2025.12]  Auvia Groups — Full-Stack & Mobile Engineer
+[2025.08 → 2025.11]  Auvia Groups — Full-Stack & Mobile Engineer
                      ├── Blazor + C# + ABP Framework enterprise modules
                      ├── Odoo ERP customization & business process automation
                      ├── Cybersecurity R&D & AI tooling integration
