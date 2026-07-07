@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=E85D04&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack%2C+Mobile+%26+Infrastructure+Engineer;Web+Platforms+%C2%B7+ERP+Systems+%C2%B7+Mobile+Apps;Cloud+Deployments+%C2%B7+AI-Assisted+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=E85D04&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+Web+%26+Mobile+Engineering;Scalable+APIs+%26+Microservices+Architecture;3D+Immersive+Web+Experiences;Security-First+Systems+%26+Tooling;AI-Powered+Product+Development;Cross-Platform+Apps+%E2%80%94+React+Native+%26+Flutter" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,9 +27,7 @@
 <br/>
 
 <div align="center">
-  <b><code>Full-Stack, Mobile &amp; Infrastructure Engineer</code></b> &nbsp;·&nbsp; Beirut, Lebanon
-  <br/>
-  <sub>B.S. MIS (in progress) &nbsp;•&nbsp; Web · Mobile · Security · 3D · AI</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=90&text=Full-Stack%20Engineer%20%7C%20Beirut%2C%20Lebanon&fontSize=18&fontColor=e85d04&fontAlignY=30&desc=B.S.%20MIS%20(in%20progress)%20%E2%80%A2%20Web%20%C2%B7%20Mobile%20%C2%B7%20Security%20%C2%B7%203D%20%C2%B7%20AI&descSize=14&descAlignY=62&descColor=adbac7" width="600"/>
 </div>
 
 <br/>
@@ -301,11 +299,10 @@ Offline-first **music player** — local library management, smart auto-curated 
 ### `> cat ./experience.log`
 
 ```
-[2025.08 → Present]  Auvia Groups — Full-Stack & Mobile Engineer
-                     │   Internship (Aug–Dec 2025) → Contract (Nov 2025 → now)
-                     ├── Blazor & Angular front-ends on C# / .NET + ABP Framework
-                     ├── Odoo 19 ERP customization & business process automation
-                     ├── Cybersecurity R&D, AI tooling & deployment automation
+[2025.08 → 2025.12]  Auvia Groups — Full-Stack & Mobile Engineer
+                     ├── Blazor + C# + ABP Framework enterprise modules
+                     ├── Odoo ERP customization & business process automation
+                     ├── Cybersecurity R&D & AI tooling integration
                      └── Owned full feature lifecycle: spec → deploy → monitor
 
 [2024 → Present]     Freelance Full-Stack Development
@@ -399,9 +396,10 @@ Offline-first **music player** — local library management, smart auto-curated 
 
 <div align="center">
 
-<code>Open to Full-Stack, Software Engineering &amp; Cybersecurity roles</code>
-
-<code>Remote · Beirut, Lebanon</code>
+```
+Open to Full-Stack, Software Engineering & Cybersecurity roles
+Remote · Beirut, Lebanon 
+```
 
 </div>
 
