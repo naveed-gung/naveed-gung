@@ -27,7 +27,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=90&text=Full-Stack%2C%20Mobile%20%26%20Infrastructure%20Engineer%20%7C%20Beirut%2C%20Lebanon&fontSize=15&fontColor=e85d04&fontAlignY=30&desc=B.S.%20MIS%20(in%20progress)%20%E2%80%A2%20Web%20%C2%B7%20Mobile%20%C2%B7%20Security%20%C2%B7%203D%20%C2%B7%20AI&descSize=14&descAlignY=62&descColor=adbac7" width="760"/>
+  <b><code>Full-Stack, Mobile &amp; Infrastructure Engineer</code></b> &nbsp;·&nbsp; Beirut, Lebanon
+  <br/>
+  <sub>B.S. MIS (in progress) &nbsp;•&nbsp; Web · Mobile · Security · 3D · AI</sub>
 </div>
 
 <br/>
@@ -299,17 +301,12 @@ Offline-first **music player** — local library management, smart auto-curated 
 ### `> cat ./experience.log`
 
 ```
-[2025.08 → 2025.12]  Auvia Groups — Full-Stack & Mobile Engineer (Internship)
-                     ├── Blazor + C# + ABP Framework enterprise modules
-                     ├── Odoo ERP customization & business process automation
-                     ├── Cybersecurity R&D & AI tooling integration
+[2025.08 → Present]  Auvia Groups — Full-Stack & Mobile Engineer
+                     │   Internship (Aug–Dec 2025) → Contract (Nov 2025 → now)
+                     ├── Blazor & Angular front-ends on C# / .NET + ABP Framework
+                     ├── Odoo 19 ERP customization & business process automation
+                     ├── Cybersecurity R&D, AI tooling & deployment automation
                      └── Owned full feature lifecycle: spec → deploy → monitor
-
-[2025.11 → Present]  Auvia Groups — Full-Stack & Mobile Engineer (Contract)
-                     ├── Continued on contract following the internship
-                     ├── Angular + .NET enterprise features & Odoo 19 ERP work
-                     ├── AI integrations, infrastructure & deployment automation
-                     └── Shipping production features across web, mobile & ERP
 
 [2024 → Present]     Freelance Full-Stack Development
                      ├── PWR Store — React + Tailwind, mobile-first storefront
@@ -402,10 +399,9 @@ Offline-first **music player** — local library management, smart auto-curated 
 
 <div align="center">
 
-```
-Open to Full-Stack, Software Engineering & Cybersecurity roles
-Remote · Beirut, Lebanon 
-```
+<code>Open to Full-Stack, Software Engineering &amp; Cybersecurity roles</code>
+
+<code>Remote · Beirut, Lebanon</code>
 
 </div>
 
