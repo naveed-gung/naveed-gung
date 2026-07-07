@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=90&text=Full-Stack%20, Mobile &amp;%20Infrastructure Engineer%20%7C%20Beirut%2C%20Lebanon&fontSize=18&fontColor=e85d04&fontAlignY=30&desc=B.S.%20MIS%20(in%20progress)%20%E2%80%A2%20Web%20%C2%B7%20Mobile%20%C2%B7%20Security%20%C2%B7%203D%20%C2%B7%20AI&descSize=14&descAlignY=62&descColor=adbac7" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=90&text=Full-Stack%20Mobile &amp;%20Infrastructure Engineer%20%7C%20Beirut%2C%20Lebanon&fontSize=18&fontColor=e85d04&fontAlignY=30&desc=B.S.%20MIS%20(in%20progress)%20%E2%80%A2%20Web%20%C2%B7%20Mobile%20%C2%B7%20Security%20%C2%B7%203D%20%C2%B7%20AI&descSize=14&descAlignY=62&descColor=adbac7" width="600"/>
 </div>
 
 <br/>
