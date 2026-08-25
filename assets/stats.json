@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-25T21:06Z",
+  "generated_at": "2026-08-25T21:11Z",
   "repos": 32,
   "stars": 34,
   "followers": 10,
   "public_gists": 0,
   "account_age": "5y 5m",
-  "last_push": "2026-08-25T21:05Z",
+  "last_push": "2026-08-25T21:11Z",
   "last_repo": "naveed-gung",
   "languages": [
     {
       "name": "TypeScript",
-      "pct": 46.9,
+      "pct": 46.5,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "pct": 14.0,
+      "pct": 13.8,
       "color": "#f7df1e"
     },
     {
       "name": "Dart",
-      "pct": 10.2,
+      "pct": 10.1,
       "color": "#00B4AB"
     },
     {
       "name": "Python",
-      "pct": 5.3,
+      "pct": 6.2,
       "color": "#3572A5"
     },
     {
@@ -35,12 +35,12 @@
     },
     {
       "name": "Shell",
-      "pct": 4.2,
+      "pct": 4.1,
       "color": "#89e051"
     },
     {
       "name": "CSS",
-      "pct": 4.1,
+      "pct": 4.0,
       "color": "#563d7c"
     }
   ],
