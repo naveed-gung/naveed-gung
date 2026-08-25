@@ -1,0 +1,64 @@
+name: refresh profile card
+
+# Bakes real GitHub numbers into assets/terminal-card.svg. The card is a static SVG served
+# through GitHub's image proxy, so it cannot fetch anything at render time — the numbers
+# have to be committed. This job is the only writer of assets/stats.json.
+
+on:
+  schedule:
+    - cron: "17 4 * * *"        # 04:17 UTC daily, off the hour to dodge scheduler pileup
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - build_terminal_card.py
+      - build_telemetry_card.py
+      - build_stats.py
+      - gh-r.png
+      - .github/workflows/refresh-card.yml
+
+permissions:
+  contents: write               # least privilege: only the commit below needs it
+
+concurrency:
+  group: refresh-card
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install build deps
+        run: pip install --no-cache-dir numpy opencv-python-headless scipy
+
+      - name: Fetch GitHub stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python build_stats.py
+        continue-on-error: true      # a rate limit must not wipe the card
+
+      - name: Rebuild terminal card
+        run: python build_terminal_card.py
+        continue-on-error: true      # runs if gh-r.png is present
+
+      - name: Rebuild telemetry card
+        run: python build_telemetry_card.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/terminal-card.svg assets/github-telemetry.svg assets/stats.json
+          git commit -m "chore: refresh profile card stats"
+          git push

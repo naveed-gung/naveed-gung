@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-08-25T20:53Z",
+  "repos": 32,
+  "stars": 34,
+  "followers": 10,
+  "public_gists": 0,
+  "account_age": "5y 5m",
+  "last_push": "2026-08-25T20:42Z",
+  "last_repo": "bazaar",
+  "languages": [
+    {
+      "name": "TypeScript",
+      "pct": 46.9,
+      "color": "#3178c6"
+    },
+    {
+      "name": "JavaScript",
+      "pct": 14.0,
+      "color": "#f7df1e"
+    },
+    {
+      "name": "Dart",
+      "pct": 10.2,
+      "color": "#00B4AB"
+    },
+    {
+      "name": "Python",
+      "pct": 5.3,
+      "color": "#3572A5"
+    },
+    {
+      "name": "C#",
+      "pct": 5.0,
+      "color": "#178600"
+    },
+    {
+      "name": "Shell",
+      "pct": 4.2,
+      "color": "#89e051"
+    },
+    {
+      "name": "CSS",
+      "pct": 4.1,
+      "color": "#563d7c"
+    }
+  ],
+  "total_contributions": 480,
+  "total_commits": 420,
+  "total_prs": 28,
+  "total_issues": 14,
+  "current_streak": 12,
+  "longest_streak": 34,
+  "weekly_sparkline": [
+    4,
+    8,
+    15,
+    12,
+    19,
+    24,
+    18,
+    22,
+    30,
+    28,
+    35,
+    42,
+    38,
+    45,
+    50,
+    48
+  ]
+}

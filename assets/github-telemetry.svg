@@ -1,0 +1,298 @@
+<svg viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradients -->
+    <radialGradient id="cardGlow" cx="25%" cy="30%" r="85%">
+      <stop offset="0%" stop-color="#e85d04" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#b34700" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#0d0d0d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="langGlow" cx="80%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#e85d04" stop-opacity="0.14"/>
+      <stop offset="70%" stop-color="#0d0d0d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="tBorder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e85d04" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#7a3200" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#e85d04" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="tileBorder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e85d04" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2d1500" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="valGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#ffd9a8"/>
+      <stop offset="100%" stop-color="#ffa94d"/>
+    </linearGradient>
+    <linearGradient id="sparkGrad" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#7a3200"/>
+      <stop offset="40%" stop-color="#e85d04"/>
+      <stop offset="100%" stop-color="#ffa94d"/>
+    </linearGradient>
+    <linearGradient id="scanSweep" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff8c42" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ff8c42" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ff8c42" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Clip Paths -->
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="1200" height="420" rx="16"/>
+    </clipPath>
+    <clipPath id="langBarClip">
+      <rect x="640" y="112" width="508" height="14" rx="7"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace; }
+    .headPrompt { font-family: ui-monospace, monospace; font-size: 13px; fill: #adbac7; }
+    .headStatus { font-family: ui-monospace, monospace; font-size: 11px; fill: #3fb950; font-weight: 700; }
+    .secTitle { font-family: ui-monospace, monospace; font-size: 12px; fill: #e85d04; font-weight: 700; letter-spacing: 1.2px; }
+    .cardLabel { font-family: ui-monospace, monospace; font-size: 10px; fill: #768390; letter-spacing: 0.8px; }
+    .cardVal { font-family: ui-monospace, monospace; font-size: 24px; font-weight: 800; fill: url(#valGrad); }
+    .cardSub { font-family: ui-monospace, monospace; font-size: 11px; fill: #adbac7; }
+    .langName { font-family: ui-monospace, monospace; font-size: 12px; fill: #f0f6fc; font-weight: 600; }
+    .langPct { font-family: ui-monospace, monospace; font-size: 11px; fill: #adbac7; font-weight: 700; }
+    .diagLabel { font-family: ui-monospace, monospace; font-size: 11px; fill: #768390; }
+    .diagVal { font-family: ui-monospace, monospace; font-size: 11px; fill: #ffa94d; font-weight: 600; }
+
+    /* Animations */
+    .pulseDot { animation: dotPulse 2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes dotPulse { 0%, 100% { opacity: 0.4; transform: scale(0.85); } 50% { opacity: 1; transform: scale(1.15); } }
+
+    .fadeUp { opacity: 0; animation: fUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+    @keyframes fUp { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+    .sparkBar { transform-box: fill-box; transform-origin: bottom center; animation: barGrow 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+    @keyframes barGrow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+
+    .sweepLine { animation: tSweep 7s linear infinite; opacity: 0; }
+    @keyframes tSweep {
+      0% { transform: translateY(-100px); opacity: 0; }
+      10% { opacity: 1; }
+      60% { opacity: 1; }
+      70% { transform: translateY(440px); opacity: 0; }
+      100% { transform: translateY(440px); opacity: 0; }
+    }
+  </style>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Base Background -->
+    <rect width="1200" height="420" fill="#0d0d0d"/>
+    <rect width="1200" height="420" fill="url(#cardGlow)"/>
+    <rect width="1200" height="420" fill="url(#langGlow)"/>
+
+    <!-- Subtle Background Grid -->
+    <g stroke="#ffffff" stroke-opacity="0.025" stroke-width="1">
+      <line x1="0" y1="46" x2="1200" y2="46"/>
+      <line x1="0" y1="180" x2="1200" y2="180"/>
+      <line x1="0" y1="280" x2="1200" y2="280"/>
+      <line x1="600" y1="46" x2="600" y2="420"/>
+      <line x1="300" y1="46" x2="300" y2="420"/>
+      <line x1="900" y1="46" x2="900" y2="420"/>
+    </g>
+
+    <!-- Radar Scanline Sweep -->
+    <rect class="sweepLine" x="0" y="0" width="1200" height="90" fill="url(#scanSweep)" pointer-events="none"/>
+
+    <!-- ==================== TOP WINDOW BAR ==================== -->
+    <rect x="0" y="0" width="1200" height="46" fill="#13171d" fill-opacity="0.85"/>
+    <line x1="0" y1="46" x2="1200" y2="46" stroke="#e85d04" stroke-opacity="0.3" stroke-width="1"/>
+
+    <!-- Window Dots -->
+    <circle cx="26" cy="23" r="5.5" fill="#e85d04"/>
+    <circle cx="44" cy="23" r="5.5" fill="#ffa94d" fill-opacity="0.8"/>
+    <circle cx="62" cy="23" r="5.5" fill="#2ea043" fill-opacity="0.8"/>
+
+    <!-- Terminal Command -->
+    <text x="88" y="27" class="headPrompt">
+      <tspan fill="#e85d04" font-weight="700">naveed-gung@hub</tspan><tspan fill="#768390">:</tspan><tspan fill="#ffa94d">~</tspan><tspan fill="#768390">$</tspan> git telemetry --live --visualize
+    </text>
+
+    <!-- Status Beacon -->
+    <g class="pulseDot" style="animation-duration: 2.2s;">
+      <circle cx="1040" cy="23" r="4.5" fill="#3fb950"/>
+    </g>
+    <text x="1054" y="27" class="headStatus">SYS_ONLINE</text>
+    <text x="1136" y="27" class="headPrompt" font-size="11" fill="#768390">2026.Q3</text>
+
+    <!-- ==================== LEFT PANEL: METRICS & STREAK ==================== -->
+    <!-- Section Title -->
+    <text x="40" y="78" class="secTitle">◈ ACTIVITY &amp; STREAK MATRIX</text>
+
+    <!-- 4 Metric Tiles -->
+    <!-- Tile 1: Total Contributions -->
+    <g class="fadeUp" style="animation-delay: 0.1s;">
+      <rect x="40" y="94" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
+      <text x="56" y="114" class="cardLabel">TOTAL CONTRIBUTIONS</text>
+      <text x="56" y="146" class="cardVal">480</text>
+      <text x="156" y="145" class="cardSub">(420 commits)</text>
+    </g>
+
+    <!-- Tile 2: Streak -->
+    <g class="fadeUp" style="animation-delay: 0.18s;">
+      <rect x="306" y="94" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
+      <text x="322" y="114" class="cardLabel">STREAK VELOCITY</text>
+      <text x="322" y="146" class="cardVal">12 <tspan font-size="14" font-weight="600" fill="#ffa94d">DAYS</tspan></text>
+      <text x="442" y="145" class="cardSub">(best: 34d)</text>
+    </g>
+
+    <!-- Tile 3: Repos & Stars -->
+    <g class="fadeUp" style="animation-delay: 0.26s;">
+      <rect x="40" y="178" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
+      <text x="56" y="198" class="cardLabel">REPOSITORIES &amp; STARS</text>
+      <text x="56" y="230" class="cardVal">32 <tspan font-size="14" font-weight="600" fill="#ffa94d">REPOS</tspan></text>
+      <text x="180" y="229" class="cardSub">(34 ★ earned)</text>
+    </g>
+
+    <!-- Tile 4: PRs & Issues -->
+    <g class="fadeUp" style="animation-delay: 0.34s;">
+      <rect x="306" y="178" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
+      <text x="322" y="198" class="cardLabel">PULL REQUESTS &amp; ISSUES</text>
+      <text x="322" y="230" class="cardVal">28 <tspan font-size="14" font-weight="600" fill="#ffa94d">PRS</tspan></text>
+      <text x="420" y="229" class="cardSub">(14 issues filed)</text>
+    </g>
+
+    <!-- Activity Sparkline Chart -->
+    <g class="fadeUp" style="animation-delay: 0.4s;">
+      <rect x="40" y="262" width="516" height="120" rx="8" fill="#12161c" fill-opacity="0.8" stroke="#30363d" stroke-width="1"/>
+      <text x="56" y="284" class="cardLabel">ACTIVITY VELOCITY (RECENT 16 WEEKS)</text>
+      <text x="502" y="284" text-anchor="end" class="headPrompt" font-size="10" fill="#e85d04">● CONSISTENT CADENCE</text>
+      
+      <!-- Sparkline Base Axis -->
+      <line x1="56" y1="354" x2="540" y2="354" stroke="#21262d" stroke-width="1"/>
+
+      <!-- Bars -->
+      <rect x="62.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.40s;"><title>Week 1: 4 contributions</title></rect>
+        <rect x="94.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.44s;"><title>Week 2: 8 contributions</title></rect>
+        <rect x="126.0" y="339" width="16" height="13" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.48s;"><title>Week 3: 15 contributions</title></rect>
+        <rect x="158.0" y="341" width="16" height="11" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.52s;"><title>Week 4: 12 contributions</title></rect>
+        <rect x="190.0" y="335" width="16" height="17" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.56s;"><title>Week 5: 19 contributions</title></rect>
+        <rect x="222.0" y="330" width="16" height="22" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.60s;"><title>Week 6: 24 contributions</title></rect>
+        <rect x="254.0" y="336" width="16" height="16" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.64s;"><title>Week 7: 18 contributions</title></rect>
+        <rect x="286.0" y="332" width="16" height="20" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.68s;"><title>Week 8: 22 contributions</title></rect>
+        <rect x="318.0" y="325" width="16" height="27" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.72s;"><title>Week 9: 30 contributions</title></rect>
+        <rect x="350.0" y="327" width="16" height="25" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.76s;"><title>Week 10: 28 contributions</title></rect>
+        <rect x="382.0" y="320" width="16" height="32" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.80s;"><title>Week 11: 35 contributions</title></rect>
+        <rect x="414.0" y="314" width="16" height="38" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.84s;"><title>Week 12: 42 contributions</title></rect>
+        <rect x="446.0" y="318" width="16" height="34" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.88s;"><title>Week 13: 38 contributions</title></rect>
+        <rect x="478.0" y="311" width="16" height="41" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.92s;"><title>Week 14: 45 contributions</title></rect>
+        <rect x="510.0" y="306" width="16" height="46" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.96s;"><title>Week 15: 50 contributions</title></rect>
+        <rect x="542.0" y="308" width="16" height="44" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 48 contributions</title></rect>
+    </g>
+
+    <!-- ==================== CENTER DIVIDER ==================== -->
+    <line x1="596" y1="64" x2="596" y2="394" stroke="#30363d" stroke-opacity="0.8" stroke-dasharray="4 4" stroke-width="1"/>
+
+    <!-- ==================== RIGHT PANEL: LANGUAGES & STACK ==================== -->
+    <!-- Section Title -->
+    <text x="640" y="78" class="secTitle">◈ LANGUAGE &amp; STACK TELEMETRY</text>
+
+    <!-- Multi-Color Progress Bar Container -->
+    <rect x="640" y="112" width="508" height="14" rx="7" fill="#161b22"/>
+    <g clip-path="url(#langBarClip)">
+      <rect x="640.0" y="112" width="238.3" height="14" fill="#3178c6" rx="0"><title>TypeScript: 46.9%</title></rect>
+        <rect x="878.3" y="112" width="71.1" height="14" fill="#f7df1e" rx="0"><title>JavaScript: 14.0%</title></rect>
+        <rect x="949.4" y="112" width="51.8" height="14" fill="#00B4AB" rx="0"><title>Dart: 10.2%</title></rect>
+        <rect x="1001.2" y="112" width="26.9" height="14" fill="#3572A5" rx="0"><title>Python: 5.3%</title></rect>
+        <rect x="1028.1" y="112" width="25.4" height="14" fill="#178600" rx="0"><title>C#: 5.0%</title></rect>
+        <rect x="1053.5" y="112" width="21.3" height="14" fill="#89e051" rx="0"><title>Shell: 4.2%</title></rect>
+        <rect x="1074.8" y="112" width="20.8" height="14" fill="#563d7c" rx="0"><title>CSS: 4.1%</title></rect>
+    </g>
+
+    <!-- Language Grid Breakdown -->
+    
+        <!-- Lang TypeScript -->
+        <g class="fadeUp" style="animation-delay: 0.30s;">
+          <circle cx="646" cy="162" r="5" fill="#3178c6" />
+          <text x="658" y="166" class="langName">TypeScript</text>
+          <text x="880" y="166" text-anchor="end" class="langPct">46.9%</text>
+          <!-- Track -->
+          <rect x="658" y="172" width="222" height="5" rx="2.5" fill="#1c2128" />
+          <!-- Fill -->
+          <rect x="658" y="172" width="70" height="5" rx="2.5" fill="#3178c6" />
+        </g>
+        
+
+        <!-- Lang JavaScript -->
+        <g class="fadeUp" style="animation-delay: 0.38s;">
+          <circle cx="910" cy="162" r="5" fill="#f7df1e" />
+          <text x="922" y="166" class="langName">JavaScript</text>
+          <text x="1144" y="166" text-anchor="end" class="langPct">14.0%</text>
+          <!-- Track -->
+          <rect x="922" y="172" width="222" height="5" rx="2.5" fill="#1c2128" />
+          <!-- Fill -->
+          <rect x="922" y="172" width="21" height="5" rx="2.5" fill="#f7df1e" />
+        </g>
+        
+
+        <!-- Lang Dart -->
+        <g class="fadeUp" style="animation-delay: 0.46s;">
+          <circle cx="646" cy="208" r="5" fill="#00B4AB" />
+          <text x="658" y="212" class="langName">Dart</text>
+          <text x="880" y="212" text-anchor="end" class="langPct">10.2%</text>
+          <!-- Track -->
+          <rect x="658" y="218" width="222" height="5" rx="2.5" fill="#1c2128" />
+          <!-- Fill -->
+          <rect x="658" y="218" width="15" height="5" rx="2.5" fill="#00B4AB" />
+        </g>
+        
+
+        <!-- Lang Python -->
+        <g class="fadeUp" style="animation-delay: 0.54s;">
+          <circle cx="910" cy="208" r="5" fill="#3572A5" />
+          <text x="922" y="212" class="langName">Python</text>
+          <text x="1144" y="212" text-anchor="end" class="langPct">5.3%</text>
+          <!-- Track -->
+          <rect x="922" y="218" width="222" height="5" rx="2.5" fill="#1c2128" />
+          <!-- Fill -->
+          <rect x="922" y="218" width="12" height="5" rx="2.5" fill="#3572A5" />
+        </g>
+        
+
+        <!-- Lang C# -->
+        <g class="fadeUp" style="animation-delay: 0.62s;">
+          <circle cx="646" cy="254" r="5" fill="#178600" />
+          <text x="658" y="258" class="langName">C#</text>
+          <text x="880" y="258" text-anchor="end" class="langPct">5.0%</text>
+          <!-- Track -->
+          <rect x="658" y="264" width="222" height="5" rx="2.5" fill="#1c2128" />
+          <!-- Fill -->
+          <rect x="658" y="264" width="12" height="5" rx="2.5" fill="#178600" />
+        </g>
+        
+
+        <!-- Lang Shell -->
+        <g class="fadeUp" style="animation-delay: 0.70s;">
+          <circle cx="910" cy="254" r="5" fill="#89e051" />
+          <text x="922" y="258" class="langName">Shell</text>
+          <text x="1144" y="258" text-anchor="end" class="langPct">4.2%</text>
+          <!-- Track -->
+          <rect x="922" y="264" width="222" height="5" rx="2.5" fill="#1c2128" />
+          <!-- Fill -->
+          <rect x="922" y="264" width="12" height="5" rx="2.5" fill="#89e051" />
+        </g>
+        
+
+    <!-- Bottom Diagnostic Info Box -->
+    <g class="fadeUp" style="animation-delay: 0.7s;">
+      <rect x="640" y="306" width="508" height="76" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
+      
+      <text x="656" y="330" class="diagLabel">LATEST ACTIVITY REPO:</text>
+      <text x="815" y="330" class="diagVal">bazaar</text>
+      
+      <text x="656" y="352" class="diagLabel">LAST PUSH TIMESTAMP:</text>
+      <text x="815" y="352" class="diagVal">2026-08-25T20:42Z</text>
+      
+      <text x="656" y="372" class="diagLabel">ACCOUNT MATURITY:</text>
+      <text x="815" y="372" class="diagVal">5y 5m · 10 Followers</text>
+
+      <circle cx="1126" cy="344" r="10" fill="#e85d04" fill-opacity="0.15"/>
+      <path d="M1122 344 L1125 347 L1131 341" stroke="#e85d04" stroke-width="2" fill="none"/>
+    </g>
+
+    <!-- Card Outer Border -->
+    <rect x="0.5" y="0.5" width="1199" height="419" rx="16" fill="none" stroke="url(#tBorder)" stroke-width="1.5"/>
+  </g>
+</svg>
