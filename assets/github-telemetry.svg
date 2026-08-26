@@ -126,15 +126,15 @@
     <g class="fadeUp" style="animation-delay: 0.1s;">
       <rect x="40" y="94" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       <text x="56" y="114" class="cardLabel">TOTAL CONTRIBUTIONS</text>
-      <text x="56" y="146" class="cardVal">4,488</text>
-      <text x="156" y="145" class="cardSub">(2,650 commits)</text>
+      <text x="56" y="146" class="cardVal">4,498</text>
+      <text x="156" y="145" class="cardSub">(2,660 commits)</text>
     </g>
 
     <!-- Tile 2: Streak -->
     <g class="fadeUp" style="animation-delay: 0.18s;">
       <rect x="306" y="94" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       <text x="322" y="114" class="cardLabel">STREAK VELOCITY</text>
-      <text x="322" y="146" class="cardVal">1 <tspan font-size="14" font-weight="600" fill="#ffa94d">DAYS</tspan></text>
+      <text x="322" y="146" class="cardVal">2 <tspan font-size="14" font-weight="600" fill="#ffa94d">DAYS</tspan></text>
       <text x="442" y="145" class="cardSub">(best: 13d)</text>
     </g>
 
@@ -179,7 +179,7 @@
         <rect x="446.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.88s;"><title>Week 13: 11 contributions</title></rect>
         <rect x="478.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.92s;"><title>Week 14: 1 contributions</title></rect>
         <rect x="510.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.96s;"><title>Week 15: 0 contributions</title></rect>
-        <rect x="542.0" y="336" width="16" height="16" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 178 contributions</title></rect>
+        <rect x="542.0" y="335" width="16" height="17" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 188 contributions</title></rect>
     </g>
 
     <!-- ==================== CENTER DIVIDER ==================== -->
@@ -280,10 +280,10 @@
       <rect x="640" y="306" width="508" height="76" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       
       <text x="656" y="330" class="diagLabel">LATEST ACTIVITY REPO:</text>
-      <text x="815" y="330" class="diagVal">naveed-gung</text>
+      <text x="815" y="330" class="diagVal">bazaar</text>
       
       <text x="656" y="352" class="diagLabel">LAST PUSH TIMESTAMP:</text>
-      <text x="815" y="352" class="diagVal">2026-08-25T21:11Z</text>
+      <text x="815" y="352" class="diagVal">2026-08-25T21:58Z</text>
       
       <text x="656" y="372" class="diagLabel">ACCOUNT MATURITY:</text>
       <text x="815" y="372" class="diagVal">5y 5m · 10 Followers</text>
