@@ -126,8 +126,8 @@
     <g class="fadeUp" style="animation-delay: 0.1s;">
       <rect x="40" y="94" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       <text x="56" y="114" class="cardLabel">TOTAL CONTRIBUTIONS</text>
-      <text x="56" y="146" class="cardVal">4,498</text>
-      <text x="156" y="145" class="cardSub">(2,660 commits)</text>
+      <text x="56" y="146" class="cardVal">4,523</text>
+      <text x="156" y="145" class="cardSub">(2,685 commits)</text>
     </g>
 
     <!-- Tile 2: Streak -->
@@ -179,7 +179,7 @@
         <rect x="446.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.88s;"><title>Week 13: 11 contributions</title></rect>
         <rect x="478.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.92s;"><title>Week 14: 1 contributions</title></rect>
         <rect x="510.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.96s;"><title>Week 15: 0 contributions</title></rect>
-        <rect x="542.0" y="335" width="16" height="17" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 188 contributions</title></rect>
+        <rect x="542.0" y="332" width="16" height="20" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 213 contributions</title></rect>
     </g>
 
     <!-- ==================== CENTER DIVIDER ==================== -->
@@ -192,13 +192,13 @@
     <!-- Multi-Color Progress Bar Container -->
     <rect x="640" y="112" width="508" height="14" rx="7" fill="#161b22"/>
     <g clip-path="url(#langBarClip)">
-      <rect x="640.0" y="112" width="236.2" height="14" fill="#3178c6" rx="0"><title>TypeScript: 46.5%</title></rect>
-        <rect x="876.2" y="112" width="70.1" height="14" fill="#f7df1e" rx="0"><title>JavaScript: 13.8%</title></rect>
-        <rect x="946.3" y="112" width="51.3" height="14" fill="#00B4AB" rx="0"><title>Dart: 10.1%</title></rect>
-        <rect x="997.6" y="112" width="31.5" height="14" fill="#3572A5" rx="0"><title>Python: 6.2%</title></rect>
-        <rect x="1029.1" y="112" width="25.4" height="14" fill="#178600" rx="0"><title>C#: 5.0%</title></rect>
-        <rect x="1054.5" y="112" width="20.8" height="14" fill="#89e051" rx="0"><title>Shell: 4.1%</title></rect>
-        <rect x="1075.4" y="112" width="20.3" height="14" fill="#563d7c" rx="0"><title>CSS: 4.0%</title></rect>
+      <rect x="640.0" y="112" width="236.7" height="14" fill="#3178c6" rx="0"><title>TypeScript: 46.6%</title></rect>
+        <rect x="876.7" y="112" width="70.1" height="14" fill="#f7df1e" rx="0"><title>JavaScript: 13.8%</title></rect>
+        <rect x="946.8" y="112" width="51.3" height="14" fill="#00B4AB" rx="0"><title>Dart: 10.1%</title></rect>
+        <rect x="998.1" y="112" width="31.5" height="14" fill="#3572A5" rx="0"><title>Python: 6.2%</title></rect>
+        <rect x="1029.6" y="112" width="25.4" height="14" fill="#178600" rx="0"><title>C#: 5.0%</title></rect>
+        <rect x="1055.0" y="112" width="20.8" height="14" fill="#89e051" rx="0"><title>Shell: 4.1%</title></rect>
+        <rect x="1075.9" y="112" width="20.3" height="14" fill="#563d7c" rx="0"><title>CSS: 4.0%</title></rect>
     </g>
 
     <!-- Language Grid Breakdown -->
@@ -207,7 +207,7 @@
         <g class="fadeUp" style="animation-delay: 0.30s;">
           <circle cx="646" cy="162" r="5" fill="#3178c6" />
           <text x="658" y="166" class="langName">TypeScript</text>
-          <text x="880" y="166" text-anchor="end" class="langPct">46.5%</text>
+          <text x="880" y="166" text-anchor="end" class="langPct">46.6%</text>
           <!-- Track -->
           <rect x="658" y="172" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
@@ -283,7 +283,7 @@
       <text x="815" y="330" class="diagVal">bazaar</text>
       
       <text x="656" y="352" class="diagLabel">LAST PUSH TIMESTAMP:</text>
-      <text x="815" y="352" class="diagVal">2026-08-25T21:58Z</text>
+      <text x="815" y="352" class="diagVal">2026-08-26T12:49Z</text>
       
       <text x="656" y="372" class="diagLabel">ACCOUNT MATURITY:</text>
       <text x="815" y="372" class="diagVal">5y 5m · 10 Followers</text>
