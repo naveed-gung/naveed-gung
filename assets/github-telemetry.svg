@@ -143,7 +143,7 @@
       <rect x="40" y="178" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       <text x="56" y="198" class="cardLabel">REPOSITORIES &amp; STARS</text>
       <text x="56" y="230" class="cardVal">32 <tspan font-size="14" font-weight="600" fill="#ffa94d">REPOS</tspan></text>
-      <text x="180" y="229" class="cardSub">(34 ★ earned)</text>
+      <text x="180" y="229" class="cardSub">(35 ★ earned)</text>
     </g>
 
     <!-- Tile 4: PRs & Issues -->
@@ -283,7 +283,7 @@
       <text x="815" y="330" class="diagVal">naveed-gung</text>
       
       <text x="656" y="352" class="diagLabel">LAST PUSH TIMESTAMP:</text>
-      <text x="815" y="352" class="diagVal">2026-08-27T06:29Z</text>
+      <text x="815" y="352" class="diagVal">2026-08-28T06:54Z</text>
       
       <text x="656" y="372" class="diagLabel">ACCOUNT MATURITY:</text>
       <text x="815" y="372" class="diagVal">5y 5m · 10 Followers</text>
