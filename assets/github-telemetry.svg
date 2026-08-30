@@ -164,22 +164,22 @@
       <line x1="56" y1="354" x2="540" y2="354" stroke="#21262d" stroke-width="1"/>
 
       <!-- Bars -->
-      <rect x="62.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.40s;"><title>Week 1: 94 contributions</title></rect>
-        <rect x="94.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.44s;"><title>Week 2: 0 contributions</title></rect>
-        <rect x="126.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.48s;"><title>Week 3: 42 contributions</title></rect>
-        <rect x="158.0" y="313" width="16" height="39" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.52s;"><title>Week 4: 414 contributions</title></rect>
-        <rect x="190.0" y="323" width="16" height="29" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.56s;"><title>Week 5: 315 contributions</title></rect>
+      <rect x="62.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.40s;"><title>Week 1: 0 contributions</title></rect>
+        <rect x="94.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.44s;"><title>Week 2: 42 contributions</title></rect>
+        <rect x="126.0" y="313" width="16" height="39" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.48s;"><title>Week 3: 414 contributions</title></rect>
+        <rect x="158.0" y="323" width="16" height="29" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.52s;"><title>Week 4: 315 contributions</title></rect>
+        <rect x="190.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.56s;"><title>Week 5: 0 contributions</title></rect>
         <rect x="222.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.60s;"><title>Week 6: 0 contributions</title></rect>
-        <rect x="254.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.64s;"><title>Week 7: 0 contributions</title></rect>
-        <rect x="286.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.68s;"><title>Week 8: 10 contributions</title></rect>
-        <rect x="318.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.72s;"><title>Week 9: 32 contributions</title></rect>
-        <rect x="350.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.76s;"><title>Week 10: 20 contributions</title></rect>
-        <rect x="382.0" y="306" width="16" height="46" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.80s;"><title>Week 11: 485 contributions</title></rect>
-        <rect x="414.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.84s;"><title>Week 12: 89 contributions</title></rect>
-        <rect x="446.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.88s;"><title>Week 13: 11 contributions</title></rect>
-        <rect x="478.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.92s;"><title>Week 14: 1 contributions</title></rect>
-        <rect x="510.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.96s;"><title>Week 15: 0 contributions</title></rect>
-        <rect x="542.0" y="332" width="16" height="20" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 213 contributions</title></rect>
+        <rect x="254.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.64s;"><title>Week 7: 10 contributions</title></rect>
+        <rect x="286.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.68s;"><title>Week 8: 32 contributions</title></rect>
+        <rect x="318.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.72s;"><title>Week 9: 20 contributions</title></rect>
+        <rect x="350.0" y="306" width="16" height="46" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.76s;"><title>Week 10: 485 contributions</title></rect>
+        <rect x="382.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.80s;"><title>Week 11: 89 contributions</title></rect>
+        <rect x="414.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.84s;"><title>Week 12: 11 contributions</title></rect>
+        <rect x="446.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.88s;"><title>Week 13: 1 contributions</title></rect>
+        <rect x="478.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.92s;"><title>Week 14: 0 contributions</title></rect>
+        <rect x="510.0" y="332" width="16" height="20" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.96s;"><title>Week 15: 213 contributions</title></rect>
+        <rect x="542.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 0 contributions</title></rect>
     </g>
 
     <!-- ==================== CENTER DIVIDER ==================== -->
@@ -283,7 +283,7 @@
       <text x="815" y="330" class="diagVal">naveed-gung</text>
       
       <text x="656" y="352" class="diagLabel">LAST PUSH TIMESTAMP:</text>
-      <text x="815" y="352" class="diagVal">2026-08-28T06:54Z</text>
+      <text x="815" y="352" class="diagVal">2026-08-29T04:28Z</text>
       
       <text x="656" y="372" class="diagLabel">ACCOUNT MATURITY:</text>
       <text x="815" y="372" class="diagVal">5y 5m · 10 Followers</text>
