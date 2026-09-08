@@ -126,15 +126,15 @@
     <g class="fadeUp" style="animation-delay: 0.1s;">
       <rect x="40" y="94" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       <text x="56" y="114" class="cardLabel">TOTAL CONTRIBUTIONS</text>
-      <text x="56" y="146" class="cardVal">4,583</text>
-      <text x="156" y="145" class="cardSub">(2,742 commits)</text>
+      <text x="56" y="146" class="cardVal">4,592</text>
+      <text x="156" y="145" class="cardSub">(2,751 commits)</text>
     </g>
 
     <!-- Tile 2: Streak -->
     <g class="fadeUp" style="animation-delay: 0.18s;">
       <rect x="306" y="94" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       <text x="322" y="114" class="cardLabel">STREAK VELOCITY</text>
-      <text x="322" y="146" class="cardVal">2 <tspan font-size="14" font-weight="600" fill="#ffa94d">DAYS</tspan></text>
+      <text x="322" y="146" class="cardVal">3 <tspan font-size="14" font-weight="600" fill="#ffa94d">DAYS</tspan></text>
       <text x="442" y="145" class="cardSub">(best: 13d)</text>
     </g>
 
@@ -179,7 +179,7 @@
         <rect x="446.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.88s;"><title>Week 13: 0 contributions</title></rect>
         <rect x="478.0" y="332" width="16" height="20" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.92s;"><title>Week 14: 213 contributions</title></rect>
         <rect x="510.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.96s;"><title>Week 15: 13 contributions</title></rect>
-        <rect x="542.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 44 contributions</title></rect>
+        <rect x="542.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 53 contributions</title></rect>
     </g>
 
     <!-- ==================== CENTER DIVIDER ==================== -->
@@ -192,13 +192,13 @@
     <!-- Multi-Color Progress Bar Container -->
     <rect x="640" y="112" width="508" height="14" rx="7" fill="#161b22"/>
     <g clip-path="url(#langBarClip)">
-      <rect x="640.0" y="112" width="226.1" height="14" fill="#3178c6" rx="0"><title>TypeScript: 44.5%</title></rect>
-        <rect x="866.1" y="112" width="68.6" height="14" fill="#00B4AB" rx="0"><title>Dart: 13.5%</title></rect>
-        <rect x="934.6" y="112" width="67.1" height="14" fill="#f7df1e" rx="0"><title>JavaScript: 13.2%</title></rect>
-        <rect x="1001.7" y="112" width="30.0" height="14" fill="#3572A5" rx="0"><title>Python: 5.9%</title></rect>
-        <rect x="1031.7" y="112" width="23.9" height="14" fill="#178600" rx="0"><title>C#: 4.7%</title></rect>
-        <rect x="1055.5" y="112" width="20.3" height="14" fill="#89e051" rx="0"><title>Shell: 4.0%</title></rect>
-        <rect x="1075.9" y="112" width="19.8" height="14" fill="#563d7c" rx="0"><title>CSS: 3.9%</title></rect>
+      <rect x="640.0" y="112" width="227.1" height="14" fill="#3178c6" rx="0"><title>TypeScript: 44.7%</title></rect>
+        <rect x="867.1" y="112" width="70.1" height="14" fill="#00B4AB" rx="0"><title>Dart: 13.8%</title></rect>
+        <rect x="937.2" y="112" width="66.0" height="14" fill="#f7df1e" rx="0"><title>JavaScript: 13.0%</title></rect>
+        <rect x="1003.2" y="112" width="29.5" height="14" fill="#3572A5" rx="0"><title>Python: 5.8%</title></rect>
+        <rect x="1032.7" y="112" width="23.9" height="14" fill="#178600" rx="0"><title>C#: 4.7%</title></rect>
+        <rect x="1056.6" y="112" width="19.8" height="14" fill="#89e051" rx="0"><title>Shell: 3.9%</title></rect>
+        <rect x="1076.4" y="112" width="19.3" height="14" fill="#563d7c" rx="0"><title>CSS: 3.8%</title></rect>
     </g>
 
     <!-- Language Grid Breakdown -->
@@ -207,11 +207,11 @@
         <g class="fadeUp" style="animation-delay: 0.30s;">
           <circle cx="646" cy="162" r="5" fill="#3178c6" />
           <text x="658" y="166" class="langName">TypeScript</text>
-          <text x="880" y="166" text-anchor="end" class="langPct">44.5%</text>
+          <text x="880" y="166" text-anchor="end" class="langPct">44.7%</text>
           <!-- Track -->
           <rect x="658" y="172" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
-          <rect x="658" y="172" width="66" height="5" rx="2.5" fill="#3178c6" />
+          <rect x="658" y="172" width="67" height="5" rx="2.5" fill="#3178c6" />
         </g>
         
 
@@ -219,7 +219,7 @@
         <g class="fadeUp" style="animation-delay: 0.38s;">
           <circle cx="910" cy="162" r="5" fill="#00B4AB" />
           <text x="922" y="166" class="langName">Dart</text>
-          <text x="1144" y="166" text-anchor="end" class="langPct">13.5%</text>
+          <text x="1144" y="166" text-anchor="end" class="langPct">13.8%</text>
           <!-- Track -->
           <rect x="922" y="172" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
@@ -231,7 +231,7 @@
         <g class="fadeUp" style="animation-delay: 0.46s;">
           <circle cx="646" cy="208" r="5" fill="#f7df1e" />
           <text x="658" y="212" class="langName">JavaScript</text>
-          <text x="880" y="212" text-anchor="end" class="langPct">13.2%</text>
+          <text x="880" y="212" text-anchor="end" class="langPct">13.0%</text>
           <!-- Track -->
           <rect x="658" y="218" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
@@ -243,7 +243,7 @@
         <g class="fadeUp" style="animation-delay: 0.54s;">
           <circle cx="910" cy="208" r="5" fill="#3572A5" />
           <text x="922" y="212" class="langName">Python</text>
-          <text x="1144" y="212" text-anchor="end" class="langPct">5.9%</text>
+          <text x="1144" y="212" text-anchor="end" class="langPct">5.8%</text>
           <!-- Track -->
           <rect x="922" y="218" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
@@ -267,7 +267,7 @@
         <g class="fadeUp" style="animation-delay: 0.70s;">
           <circle cx="910" cy="254" r="5" fill="#89e051" />
           <text x="922" y="258" class="langName">Shell</text>
-          <text x="1144" y="258" text-anchor="end" class="langPct">4.0%</text>
+          <text x="1144" y="258" text-anchor="end" class="langPct">3.9%</text>
           <!-- Track -->
           <rect x="922" y="264" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
@@ -283,7 +283,7 @@
       <text x="815" y="330" class="diagVal">Monolith</text>
       
       <text x="656" y="352" class="diagLabel">LAST PUSH TIMESTAMP:</text>
-      <text x="815" y="352" class="diagVal">2026-09-06T20:18Z</text>
+      <text x="815" y="352" class="diagVal">2026-09-07T17:14Z</text>
       
       <text x="656" y="372" class="diagLabel">ACCOUNT MATURITY:</text>
       <text x="815" y="372" class="diagVal">5y 5m · 10 Followers</text>
