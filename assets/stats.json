@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-10T04:35Z",
-  "repos": 32,
+  "generated_at": "2026-10-11T04:36Z",
+  "repos": 30,
   "stars": 36,
   "followers": 10,
   "public_gists": 0,
   "account_age": "5y 6m",
-  "last_push": "2026-10-09T04:38Z",
+  "last_push": "2026-10-10T04:35Z",
   "last_repo": "naveed-gung",
   "languages": [
     {
       "name": "TypeScript",
-      "pct": 44.1,
+      "pct": 43.9,
       "color": "#3178c6"
     },
     {
       "name": "Dart",
-      "pct": 14.9,
+      "pct": 14.8,
       "color": "#00B4AB"
     },
     {
       "name": "JavaScript",
-      "pct": 12.9,
+      "pct": 13.2,
       "color": "#f7df1e"
     },
     {
@@ -30,28 +30,27 @@
     },
     {
       "name": "C#",
-      "pct": 4.6,
+      "pct": 4.4,
       "color": "#178600"
     },
     {
-      "name": "Shell",
+      "name": "CSS",
       "pct": 3.9,
-      "color": "#89e051"
+      "color": "#563d7c"
     },
     {
-      "name": "CSS",
+      "name": "Shell",
       "pct": 3.8,
-      "color": "#563d7c"
+      "color": "#89e051"
     }
   ],
-  "total_contributions": 4972,
-  "total_commits": 2941,
+  "total_contributions": 4956,
+  "total_commits": 2923,
   "total_prs": 50,
   "total_issues": 6,
-  "current_streak": 1,
+  "current_streak": 2,
   "longest_streak": 13,
   "weekly_sparkline": [
-    0,
     10,
     32,
     20,
@@ -66,6 +65,7 @@
     33,
     122,
     7,
-    4
+    13,
+    0
   ]
 }

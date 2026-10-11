@@ -126,15 +126,15 @@
     <g class="fadeUp" style="animation-delay: 0.1s;">
       <rect x="40" y="94" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       <text x="56" y="114" class="cardLabel">TOTAL CONTRIBUTIONS</text>
-      <text x="56" y="146" class="cardVal">4,972</text>
-      <text x="156" y="145" class="cardSub">(2,941 commits)</text>
+      <text x="56" y="146" class="cardVal">4,956</text>
+      <text x="156" y="145" class="cardSub">(2,923 commits)</text>
     </g>
 
     <!-- Tile 2: Streak -->
     <g class="fadeUp" style="animation-delay: 0.18s;">
       <rect x="306" y="94" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       <text x="322" y="114" class="cardLabel">STREAK VELOCITY</text>
-      <text x="322" y="146" class="cardVal">1 <tspan font-size="14" font-weight="600" fill="#ffa94d">DAYS</tspan></text>
+      <text x="322" y="146" class="cardVal">2 <tspan font-size="14" font-weight="600" fill="#ffa94d">DAYS</tspan></text>
       <text x="442" y="145" class="cardSub">(best: 13d)</text>
     </g>
 
@@ -142,7 +142,7 @@
     <g class="fadeUp" style="animation-delay: 0.26s;">
       <rect x="40" y="178" width="250" height="74" rx="8" fill="#161b22" fill-opacity="0.9" stroke="url(#tileBorder)" stroke-width="1"/>
       <text x="56" y="198" class="cardLabel">REPOSITORIES &amp; STARS</text>
-      <text x="56" y="230" class="cardVal">32 <tspan font-size="14" font-weight="600" fill="#ffa94d">REPOS</tspan></text>
+      <text x="56" y="230" class="cardVal">30 <tspan font-size="14" font-weight="600" fill="#ffa94d">REPOS</tspan></text>
       <text x="180" y="229" class="cardSub">(36 ★ earned)</text>
     </g>
 
@@ -164,22 +164,22 @@
       <line x1="56" y1="354" x2="540" y2="354" stroke="#21262d" stroke-width="1"/>
 
       <!-- Bars -->
-      <rect x="62.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.40s;"><title>Week 1: 0 contributions</title></rect>
-        <rect x="94.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.44s;"><title>Week 2: 10 contributions</title></rect>
-        <rect x="126.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.48s;"><title>Week 3: 32 contributions</title></rect>
-        <rect x="158.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.52s;"><title>Week 4: 20 contributions</title></rect>
-        <rect x="190.0" y="306" width="16" height="46" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.56s;"><title>Week 5: 485 contributions</title></rect>
-        <rect x="222.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.60s;"><title>Week 6: 89 contributions</title></rect>
-        <rect x="254.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.64s;"><title>Week 7: 11 contributions</title></rect>
-        <rect x="286.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.68s;"><title>Week 8: 1 contributions</title></rect>
-        <rect x="318.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.72s;"><title>Week 9: 0 contributions</title></rect>
-        <rect x="350.0" y="332" width="16" height="20" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.76s;"><title>Week 10: 213 contributions</title></rect>
-        <rect x="382.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.80s;"><title>Week 11: 13 contributions</title></rect>
-        <rect x="414.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.84s;"><title>Week 12: 88 contributions</title></rect>
-        <rect x="446.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.88s;"><title>Week 13: 33 contributions</title></rect>
-        <rect x="478.0" y="341" width="16" height="11" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.92s;"><title>Week 14: 122 contributions</title></rect>
-        <rect x="510.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.96s;"><title>Week 15: 7 contributions</title></rect>
-        <rect x="542.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 4 contributions</title></rect>
+      <rect x="62.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.40s;"><title>Week 1: 10 contributions</title></rect>
+        <rect x="94.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.44s;"><title>Week 2: 32 contributions</title></rect>
+        <rect x="126.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.48s;"><title>Week 3: 20 contributions</title></rect>
+        <rect x="158.0" y="306" width="16" height="46" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.52s;"><title>Week 4: 485 contributions</title></rect>
+        <rect x="190.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.56s;"><title>Week 5: 89 contributions</title></rect>
+        <rect x="222.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.60s;"><title>Week 6: 11 contributions</title></rect>
+        <rect x="254.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.64s;"><title>Week 7: 1 contributions</title></rect>
+        <rect x="286.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.68s;"><title>Week 8: 0 contributions</title></rect>
+        <rect x="318.0" y="332" width="16" height="20" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.72s;"><title>Week 9: 213 contributions</title></rect>
+        <rect x="350.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.76s;"><title>Week 10: 13 contributions</title></rect>
+        <rect x="382.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.80s;"><title>Week 11: 88 contributions</title></rect>
+        <rect x="414.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.84s;"><title>Week 12: 33 contributions</title></rect>
+        <rect x="446.0" y="341" width="16" height="11" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.88s;"><title>Week 13: 122 contributions</title></rect>
+        <rect x="478.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.92s;"><title>Week 14: 7 contributions</title></rect>
+        <rect x="510.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 0.96s;"><title>Week 15: 13 contributions</title></rect>
+        <rect x="542.0" y="344" width="16" height="8" rx="3" class="sparkBar" fill="url(#sparkGrad)" style="animation-delay: 1.00s;"><title>Week 16: 0 contributions</title></rect>
     </g>
 
     <!-- ==================== CENTER DIVIDER ==================== -->
@@ -192,13 +192,13 @@
     <!-- Multi-Color Progress Bar Container -->
     <rect x="640" y="112" width="508" height="14" rx="7" fill="#161b22"/>
     <g clip-path="url(#langBarClip)">
-      <rect x="640.0" y="112" width="224.0" height="14" fill="#3178c6" rx="0"><title>TypeScript: 44.1%</title></rect>
-        <rect x="864.0" y="112" width="75.7" height="14" fill="#00B4AB" rx="0"><title>Dart: 14.9%</title></rect>
-        <rect x="939.7" y="112" width="65.5" height="14" fill="#f7df1e" rx="0"><title>JavaScript: 12.9%</title></rect>
+      <rect x="640.0" y="112" width="223.0" height="14" fill="#3178c6" rx="0"><title>TypeScript: 43.9%</title></rect>
+        <rect x="863.0" y="112" width="75.2" height="14" fill="#00B4AB" rx="0"><title>Dart: 14.8%</title></rect>
+        <rect x="938.2" y="112" width="67.1" height="14" fill="#f7df1e" rx="0"><title>JavaScript: 13.2%</title></rect>
         <rect x="1005.3" y="112" width="29.0" height="14" fill="#3572A5" rx="0"><title>Python: 5.7%</title></rect>
-        <rect x="1034.2" y="112" width="23.4" height="14" fill="#178600" rx="0"><title>C#: 4.6%</title></rect>
-        <rect x="1057.6" y="112" width="19.8" height="14" fill="#89e051" rx="0"><title>Shell: 3.9%</title></rect>
-        <rect x="1077.4" y="112" width="19.3" height="14" fill="#563d7c" rx="0"><title>CSS: 3.8%</title></rect>
+        <rect x="1034.2" y="112" width="22.4" height="14" fill="#178600" rx="0"><title>C#: 4.4%</title></rect>
+        <rect x="1056.6" y="112" width="19.8" height="14" fill="#563d7c" rx="0"><title>CSS: 3.9%</title></rect>
+        <rect x="1076.4" y="112" width="19.3" height="14" fill="#89e051" rx="0"><title>Shell: 3.8%</title></rect>
     </g>
 
     <!-- Language Grid Breakdown -->
@@ -207,11 +207,11 @@
         <g class="fadeUp" style="animation-delay: 0.30s;">
           <circle cx="646" cy="162" r="5" fill="#3178c6" />
           <text x="658" y="166" class="langName">TypeScript</text>
-          <text x="880" y="166" text-anchor="end" class="langPct">44.1%</text>
+          <text x="880" y="166" text-anchor="end" class="langPct">43.9%</text>
           <!-- Track -->
           <rect x="658" y="172" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
-          <rect x="658" y="172" width="66" height="5" rx="2.5" fill="#3178c6" />
+          <rect x="658" y="172" width="65" height="5" rx="2.5" fill="#3178c6" />
         </g>
         
 
@@ -219,7 +219,7 @@
         <g class="fadeUp" style="animation-delay: 0.38s;">
           <circle cx="910" cy="162" r="5" fill="#00B4AB" />
           <text x="922" y="166" class="langName">Dart</text>
-          <text x="1144" y="166" text-anchor="end" class="langPct">14.9%</text>
+          <text x="1144" y="166" text-anchor="end" class="langPct">14.8%</text>
           <!-- Track -->
           <rect x="922" y="172" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
@@ -231,7 +231,7 @@
         <g class="fadeUp" style="animation-delay: 0.46s;">
           <circle cx="646" cy="208" r="5" fill="#f7df1e" />
           <text x="658" y="212" class="langName">JavaScript</text>
-          <text x="880" y="212" text-anchor="end" class="langPct">12.9%</text>
+          <text x="880" y="212" text-anchor="end" class="langPct">13.2%</text>
           <!-- Track -->
           <rect x="658" y="218" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
@@ -255,7 +255,7 @@
         <g class="fadeUp" style="animation-delay: 0.62s;">
           <circle cx="646" cy="254" r="5" fill="#178600" />
           <text x="658" y="258" class="langName">C#</text>
-          <text x="880" y="258" text-anchor="end" class="langPct">4.6%</text>
+          <text x="880" y="258" text-anchor="end" class="langPct">4.4%</text>
           <!-- Track -->
           <rect x="658" y="264" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
@@ -263,15 +263,15 @@
         </g>
         
 
-        <!-- Lang Shell -->
+        <!-- Lang CSS -->
         <g class="fadeUp" style="animation-delay: 0.70s;">
-          <circle cx="910" cy="254" r="5" fill="#89e051" />
-          <text x="922" y="258" class="langName">Shell</text>
+          <circle cx="910" cy="254" r="5" fill="#563d7c" />
+          <text x="922" y="258" class="langName">CSS</text>
           <text x="1144" y="258" text-anchor="end" class="langPct">3.9%</text>
           <!-- Track -->
           <rect x="922" y="264" width="222" height="5" rx="2.5" fill="#1c2128" />
           <!-- Fill -->
-          <rect x="922" y="264" width="12" height="5" rx="2.5" fill="#89e051" />
+          <rect x="922" y="264" width="12" height="5" rx="2.5" fill="#563d7c" />
         </g>
         
 
@@ -283,7 +283,7 @@
       <text x="815" y="330" class="diagVal">naveed-gung</text>
       
       <text x="656" y="352" class="diagLabel">LAST PUSH TIMESTAMP:</text>
-      <text x="815" y="352" class="diagVal">2026-10-09T04:38Z</text>
+      <text x="815" y="352" class="diagVal">2026-10-10T04:35Z</text>
       
       <text x="656" y="372" class="diagLabel">ACCOUNT MATURITY:</text>
       <text x="815" y="372" class="diagVal">5y 6m · 10 Followers</text>
