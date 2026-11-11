@@ -288,7 +288,7 @@ Offline-first **music player** — local library management, smart auto-curated 
 ### `> cat ./experience.log`
 
 ```
-[2025.11 → Present]  Auvia Groups — Full-Stack & Mobile Engineer (Contract)
+[2025.11 → Present]  Auvia Groups — Software & Infrastructure Engineer (Contract)
                      ├── Continued on contract following the internship
                      ├── Angular + .NET enterprise features & Odoo 19 ERP work
                      ├── AI integrations, infrastructure & deployment automation
@@ -308,7 +308,10 @@ Offline-first **music player** — local library management, smart auto-curated 
 [Continuous]         Independent Project Engineering
                      ├── Security tools: ZERO-DAY-GUARDIAN, E.MAT, S.T.A.R
                      ├── 3D/WebGL: Jenny, Elite Showroom
-                     └── Full-stack platforms: Bazaar, EduFlow, Nova
+                     ├── Full-stack platforms: Bazaar, EduFlow, Nova
+                     ├── Desktop: Monolith DE, DroidForge
+                     └── Mobile: Monolith
+                     
 ```
 
 <br/>
